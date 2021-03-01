@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2021-03-01 14:34:16 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2021-02-15 21:58:14 +0530"
@@ -640,6 +646,7 @@
       "minecraft:pillager": "2021-02-15 21:58:06 +0530",
       "minecraft:blaze": "2021-02-16 13:35:04 +0530",
       "minecraft:skeleton": "2021-02-15 23:40:36 +0530",
+      "minecraft:ravager": "2021-03-01 14:04:33 +0530",
       "minecraft:magma_cube": "2021-02-17 13:51:20 +0530",
       "minecraft:spider": "2021-02-15 22:04:45 +0530",
       "minecraft:creeper": "2021-02-15 22:05:28 +0530",
@@ -1382,6 +1389,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2021-03-01 16:06:21 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-02-15 21:54:19 +0530"
@@ -1777,6 +1790,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2021-02-15 21:53:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2021-03-01 14:04:49 +0530"
     },
     "done": true
   },
