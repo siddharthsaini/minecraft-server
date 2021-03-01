@@ -1,751 +1,168 @@
-[13:14:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:14:13] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:14:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:14:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:14:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:14:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:14:13] [main/INFO]: Reloading ResourceManager: Default
-[13:14:14] [Worker-Main-13/INFO]: Loaded 7 recipes
-[13:14:15] [Worker-Main-13/INFO]: Loaded 927 advancements
-[13:14:17] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[13:14:17] [Server thread/INFO]: Loading properties
-[13:14:17] [Server thread/INFO]: Default game type: SURVIVAL
-[13:14:17] [Server thread/INFO]: Generating keypair
-[13:14:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:14:17] [Server thread/INFO]: Using epoll channel type
-[13:14:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:14:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:14:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:14:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:14:17] [Server thread/INFO]: Preparing level "world"
-[13:14:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:14:20] [Server thread/INFO]: Preparing spawn area: 0%
-[13:14:20] [Server thread/INFO]: Preparing spawn area: 0%
-[13:14:20] [Server thread/INFO]: Preparing spawn area: 0%
-[13:14:20] [Server thread/INFO]: Preparing spawn area: 0%
-[13:14:20] [Server thread/INFO]: Preparing spawn area: 0%
-[13:14:20] [Server thread/INFO]: Preparing spawn area: 0%
-[13:14:20] [Server thread/INFO]: Preparing spawn area: 0%
-[13:14:21] [Server thread/INFO]: Time elapsed: 3431 ms
-[13:14:21] [Server thread/INFO]: Done (3.519s)! For help, type "help"
-[13:16:41] [Server thread/INFO]: sidmeister[/127.0.0.1:39382] logged in with entity id 136 at (-113.2536616408597, 65.0, 1148.7694493621118)
-[13:16:41] [Server thread/INFO]: sidmeister joined the game
-[13:17:25] [Server thread/INFO]: shobhit_joe[/127.0.0.1:39386] logged in with entity id 583 at (-102.50297659605695, 87.0, 1189.2402478804775)
-[13:17:25] [Server thread/INFO]: shobhit_joe joined the game
-[13:24:41] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[13:24:41] [Server thread/INFO]: sidmeister left the game
-[13:24:51] [Server thread/INFO]: sidmeister[/127.0.0.1:39404] logged in with entity id 1639 at (-131.0200806236591, 63.0, 1177.4138427919054)
-[13:24:51] [Server thread/INFO]: sidmeister joined the game
-[13:25:39] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[13:25:39] [Server thread/INFO]: shobhit_joe left the game
-[13:26:21] [Server thread/INFO]: shobhit_joe[/127.0.0.1:39408] logged in with entity id 2034 at (-98.61172767146934, 86.0, 1200.5568274570328)
-[13:26:21] [Server thread/INFO]: shobhit_joe joined the game
-[13:27:09] [Server thread/WARN]: sidmeister moved too quickly! 10.167900327186558,0.0,-0.5794561125426299
-[13:27:55] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[13:27:55] [Server thread/INFO]: sidmeister left the game
-[13:28:35] [Server thread/INFO]: sidmeister[/127.0.0.1:39416] logged in with entity id 2382 at (-119.58485862704728, 65.0, 1151.935061321319)
-[13:28:35] [Server thread/INFO]: sidmeister joined the game
-[13:29:06] [Server thread/INFO]: <shobhit_joe> did the chest explode
-[13:29:14] [Server thread/INFO]: <sidmeister> it did
-[13:29:23] [Server thread/INFO]: <sidmeister> tbut saman side wali mei shift kardiya tha
-[13:29:56] [Server thread/INFO]: <shobhit_joe> lag max ho raha hai :,)
-[13:30:05] [Server thread/INFO]: <sidmeister> haan meet chal rahi hai side mei
-[13:30:17] [Server thread/INFO]: <shobhit_joe> phone se join krle na
-[13:30:21] [Server thread/INFO]: <sidmeister> ok
-[13:30:48] [Server thread/INFO]: <sidmeister> no, meet record karta hun mai
-[13:31:03] [Server thread/INFO]: <sidmeister> build hi toh karna hai
-[13:32:06] [Server thread/INFO]: sidmeister lost connection: Timed out
-[13:32:06] [Server thread/INFO]: sidmeister left the game
-[13:32:24] [Server thread/INFO]: sidmeister[/127.0.0.1:39438] logged in with entity id 2920 at (-152.74467081284, 63.0, 1174.7492877490197)
-[13:32:24] [Server thread/INFO]: sidmeister joined the game
-[13:32:39] [Server thread/INFO]: sidmeister lost connection: Timed out
-[13:32:39] [Server thread/INFO]: sidmeister left the game
-[13:33:05] [Server thread/INFO]: [Server] net ka scene hai. 500 kb fucking ps
-[13:34:04] [Server thread/INFO]: sidmeister[/127.0.0.1:39630] logged in with entity id 3108 at (-152.74467081284, 63.0, 1174.7492877490197)
-[13:34:04] [Server thread/INFO]: sidmeister joined the game
-[13:34:19] [Server thread/INFO]: sidmeister lost connection: Timed out
-[13:34:19] [Server thread/INFO]: sidmeister left the game
-[13:34:29] [Server thread/INFO]: sidmeister[/127.0.0.1:39692] logged in with entity id 3184 at (-152.74467081284, 63.0, 1174.7492877490197)
-[13:34:29] [Server thread/INFO]: sidmeister joined the game
-[13:34:44] [Server thread/INFO]: sidmeister lost connection: Timed out
-[13:34:44] [Server thread/INFO]: sidmeister left the game
-[13:34:48] [Server thread/INFO]: sidmeister[/127.0.0.1:39698] logged in with entity id 3225 at (-122.65713605744526, 63.0, 1184.696508483508)
-[13:34:48] [Server thread/INFO]: sidmeister joined the game
-[13:35:48] [Server thread/INFO]: sidmeister lost connection: Timed out
-[13:35:48] [Server thread/INFO]: sidmeister left the game
-[13:35:58] [Server thread/INFO]: sidmeister[/127.0.0.1:39704] logged in with entity id 3370 at (-99.92555516353713, 62.0, 1173.1491379773975)
-[13:35:58] [Server thread/INFO]: sidmeister joined the game
-[13:39:04] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[13:39:04] [Server thread/INFO]: sidmeister left the game
-[13:41:44] [Server thread/INFO]: sidmeister[/127.0.0.1:39722] logged in with entity id 4096 at (-91.83416880154768, 62.0, 1172.5492534193447)
-[13:41:44] [Server thread/INFO]: sidmeister joined the game
-[13:41:53] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[13:41:53] [Server thread/INFO]: sidmeister left the game
-[13:42:26] [Server thread/INFO]: sidmeister[/127.0.0.1:39856] logged in with entity id 4183 at (-91.83416880154768, 62.0, 1172.5492534193447)
-[13:42:26] [Server thread/INFO]: sidmeister joined the game
-[13:42:41] [Server thread/INFO]: sidmeister lost connection: Timed out
-[13:42:41] [Server thread/INFO]: sidmeister left the game
-[13:43:57] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[13:43:57] [Server thread/INFO]: shobhit_joe left the game
-[13:43:58] [Server thread/INFO]: sidmeister[/127.0.0.1:39946] logged in with entity id 4351 at (-91.83416880154768, 62.0, 1172.5492534193447)
-[13:43:58] [Server thread/INFO]: sidmeister joined the game
-[13:45:57] [Server thread/INFO]: <sidmeister> slep
-[13:46:52] [Server thread/INFO]: shobhit_joe[/127.0.0.1:40050] logged in with entity id 5035 at (-99.69900235742716, 73.0, 1202.713444756388)
-[13:46:52] [Server thread/INFO]: shobhit_joe joined the game
-[13:47:44] [Server thread/INFO]: sidmeister lost connection: Timed out
-[13:47:44] [Server thread/INFO]: sidmeister left the game
-[13:47:45] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[13:47:45] [Server thread/INFO]: shobhit_joe left the game
-[13:48:19] [Server thread/INFO]: shobhit_joe[/127.0.0.1:40176] logged in with entity id 5158 at (-106.47554719405838, 63.0, 1203.5555362439477)
-[13:48:19] [Server thread/INFO]: shobhit_joe joined the game
-[13:48:35] [Server thread/INFO]: <shobhit_joe> this lag is gonna fuck me up
-[13:48:47] [Server thread/INFO]: gucchu[/127.0.0.1:40178] logged in with entity id 5549 at (-72.01838252231649, 63.0, 1204.0643439397397)
-[13:48:47] [Server thread/INFO]: gucchu joined the game
-[13:48:56] [Server thread/INFO]: sidmeister[/127.0.0.1:40182] logged in with entity id 5594 at (-102.85978609502602, 65.0, 1147.5783525615873)
-[13:48:56] [Server thread/INFO]: sidmeister joined the game
-[13:51:23] [Server thread/INFO]: <gucchu> koi hai idhar
-[13:51:36] [Server thread/INFO]: <sidmeister> konnichiwa
-[13:51:52] [Server thread/INFO]: <shobhit_joe> sup babes
-[13:52:00] [Server thread/INFO]: <gucchu> i'm going in boys
-[13:52:06] [Server thread/INFO]: <gucchu> wish me luck
-[13:52:06] [Server thread/INFO]: <sidmeister> mine?
-[13:52:20] [Server thread/INFO]: <gucchu> yep mine karegoongi mein
-[13:54:16] [Server thread/WARN]: shobhit_joe moved too quickly! 0.4112580905289889,-10.55660261462009,-0.8942320250489502
-[13:55:00] [Server thread/INFO]: <sidmeister> mkc
-[13:55:10] [Server thread/INFO]: <sidmeister> chal maarne
-[13:55:21] [Server thread/INFO]: <gucchu> marne what
-[13:55:29] [Server thread/INFO]: <shobhit_joe> bc jitna banaya hai usse zyada toh destroy ho gaya
-[13:55:56] [Server thread/INFO]: <gucchu> raid ho ri hai
-[13:56:11] [Server thread/INFO]: <gucchu> i'm coming buoys
-[13:56:12] [Server thread/INFO]: <shobhit_joe> bhai is lag mei toh ho chuka kaam
-[13:56:30] [Server thread/INFO]: <shobhit_joe> i dont have a bow tho
-[13:56:30] [Server thread/INFO]: <sidmeister> golem op
-[13:56:38] [Server thread/INFO]: <sidmeister> tez
-[13:56:42] [Server thread/INFO]: <sidmeister> ez*
-[13:56:46] [Server thread/INFO]: <shobhit_joe> maa chod di bhai XD
-[13:56:52] [Server thread/INFO]: <sidmeister> ahahah
-[13:56:57] [Server thread/INFO]: <shobhit_joe> mauj karadi XD
-[13:57:09] [Server thread/INFO]: <sidmeister> bkl mere ghar pe hain
-[13:57:19] [Server thread/INFO]: <sidmeister> bow hai?
-[13:57:20] [Server thread/INFO]: <shobhit_joe> rave party
-[13:57:23] [Server thread/INFO]: <shobhit_joe> nahi na
-[13:57:25] [Server thread/INFO]: <sidmeister> F
-[13:57:38] [Server thread/INFO]: <sidmeister> mere ghar chal infinity pade hain do
-[13:57:48] [Server thread/INFO]: <sidmeister> bow banayenge
-[13:57:58] [Server thread/INFO]: <shobhit_joe> lez go
-[13:58:08] [Server thread/WARN]: gucchu moved too quickly! -8.815093427773178,1.0,-4.914215424573285
-[13:58:09] [Server thread/INFO]: <sidmeister> need strings
-[13:59:26] [Server thread/INFO]: gucchu was slain by Zombie
-[13:59:41] [Server thread/INFO]: <sidmeister> peeche
-[13:59:58] [Server thread/INFO]: gucchu was slain by Husk
-[14:00:29] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -3.020906985226034,0.0,-9.868935032231775
-[14:00:29] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -3.382988322635285,0.0,-10.136226200385408
-[14:00:38] [Server thread/INFO]: shobhit_joe has made the advancement [Enchanter]
-[14:00:54] [Server thread/INFO]: <sidmeister> lez goo
-[14:01:03] [Server thread/INFO]: <shobhit_joe> lets fuck them up
-[14:01:03] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 8.938631151245431,0.0,5.276229621234279
-[14:01:03] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 9.371007314190464,0.0,5.415867888706771
-[14:01:03] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 9.805675555108778,0.0,5.54996790628843
-[14:01:03] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 9.923610512548407,0.0,5.681104516774212
-[14:01:03] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 9.923610512548407,0.0,5.810655467207198
-[14:01:05] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:05] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:05] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:05] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:05] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:05] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:05] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:05] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:05] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:05] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:06] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:06] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:06] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:06] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:06] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:06] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:06] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:06] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:06] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 2.0408873353230774
-[14:01:06] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 1.8964934357982202
-[14:01:06] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 1.6748372395413753
-[14:01:06] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 1.4114240632093242
-[14:01:06] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 1.125667559383146
-[14:01:06] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 0.8279555864928625
-[14:01:06] [Server thread/WARN]: Horse (vehicle of gucchu) moved wrongly! 0.5238464804729119
-[14:01:09] [Server thread/INFO]: gucchu was slain by Zombified Piglin
-[14:01:11] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[server.jar:?]
-	at zs.a(SourceFile:939) ~[server.jar:?]
-	at aae.a(SourceFile:467) ~[server.jar:?]
-	at aay.a(SourceFile:931) ~[server.jar:?]
-	at st.a(SourceFile:122) ~[server.jar:?]
-	at st$b.a(SourceFile:18) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at aob.c(SourceFile:144) ~[server.jar:?]
-	at aof.c(SourceFile:23) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
-	at aob.y(SourceFile:118) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
-	at aob.c(SourceFile:127) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_282]
-[14:01:48] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[14:01:48] [Server thread/INFO]: sidmeister left the game
-[14:02:01] [Server thread/INFO]: sidmeister[/127.0.0.1:40210] logged in with entity id 7961 at (-134.19549076839309, 63.0, 1191.9240430242658)
-[14:02:01] [Server thread/INFO]: sidmeister joined the game
-[14:02:19] [Server thread/INFO]: gucchu was slain by Husk
-[14:02:27] [Server thread/INFO]: <sidmeister> fuck bhai arrow nahi hai
-[14:02:32] [Server thread/INFO]: <sidmeister> dio ek
-[14:02:46] [Server thread/INFO]: <sidmeister> tune puick karliya wapis
-[14:02:55] [Server thread/INFO]: <sidmeister> bro
-[14:02:56] [Server thread/INFO]: gucchu was shot by Skeleton
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -9.984483536237462,0.0,-0.6470507182498295
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -10.433957979729712,0.0,-0.721230984625663
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -10.883406432668892,0.0,-0.7956327761023658
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -11.332840978581316,0.0,-0.870153101243659
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -11.78226808312101,0.0,-0.9447368513856418
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -12.231691205930503,0.0,-1.019354538980906
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -9.887432603579668,0.0,-1.6405330759944263
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -10.336851143894876,0.0,-1.7151898215315668
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -10.786269684158611,0.0,-1.7898465675075386
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -11.235688224394806,0.0,-1.86450331371816
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -11.68510676461625,0.0,-1.939160060054519
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -12.134525304829822,0.0,-2.013816806457953
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -12.583943845039158,0.0,-2.0884735528975398
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -13.03336238524625,0.0,-2.163130299356226
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -13.482780925452118,0.0,-2.237787045825371
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -13.930097141104227,0.0,-2.3233288467372404
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -14.362975986659222,0.0,-2.4551747633374816
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -14.766972186965063,0.0,-2.648809432819462
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -15.127372896249739,0.0,-2.9075316342007227
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -15.437027253817888,0.0,-3.2226530427394664
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -15.697947934582174,0.0,-3.5804593442233
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -15.90623390067239,0.0,-3.972279709883196
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -16.060716453936493,0.0,-4.389324365878338
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -16.163389839635443,0.0,-4.823336005291139
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -16.218409548182393,0.0,-5.267373922349179
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -16.230203113295005,0.0,-5.716040341061898
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -16.19798408457214,0.0,-6.164385838390217
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -16.18074432468066,0.0,-6.404286574965681
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -16.17151967288646,0.0,-6.532652676002499
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -16.1665837456311,0.0,-6.601338817323494
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -16.1665837456311,0.0,-6.638091402090367
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -16.1665837456311,0.0,-6.657756977431745
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -16.1665837456311,0.0,-6.668279634707687
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -16.1665837456311,0.0,-6.673910098816805
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -16.1665837456311,0.0,-6.676922847902233
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 16.1665837456311,0.0,6.676922847902233
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 16.1665837456311,0.0,6.676922847902233
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 16.1665837456311,0.0,6.676922847902233
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 16.1665837456311,0.0,6.676922847902233
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 16.1665837456311,0.0,6.676922847902233
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 16.1665837456311,0.0,6.676922847902233
-[14:03:53] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 16.069970904826818,0.0,6.793183865596575
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.361105396975503,-0.03340763090914578,8.48189529359206
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.404438201665599,-0.43309935043221515,8.735024789300951
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.4432570339825475,-0.8937952868285777,8.981945657037613
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.47805030562111,-0.9999999999999929,9.22332967018906
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.510825305878313,-0.9999999999999929,9.650395697946351
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.529540339795261,-0.9999999999999929,10.090713899521006
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.5268905341579,-0.9999999999999929,10.53774742778296
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.5042714298707125,-0.9999999999999929,10.98754188630005
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.4690042233703196,-0.9999999999999929,11.438754403309758
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.426969269551606,-0.9999999999999929,11.890725695145875
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.381313029077177,-0.9999999999999929,12.343102992263312
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.33371911031395,-0.9999999999999929,12.795697534711735
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.285088378531512,-0.9999999999999929,13.248408320805538
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.235902868774332,-0.9999999999999929,13.701181306556236
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.186420508383932,-0.9999999999999929,14.153987574103212
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.136779309138262,-0.9999999999999929,14.60681165007577
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.087053118388042,-0.9999999999999929,15.059645254981888
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 5.0081175645166525,-0.5408683179236462,15.77755108895758
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 4.963564305848195,-0.17675024337078327,16.182741835327533
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 4.921515291025528,0.09611676074052156,16.56514460146218
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 4.881699560928922,0.28134623509409806,16.927225046237254
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 4.843875474208403,0.3824086242302158,17.27118204430144
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 4.807827535101865,0.4026369431502488,17.598976552123077
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! 4.773363564483134,0.3452322195237869,17.912357350730872
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -0.5723987733866522,-0.08949577671958764,9.991080111233714
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -0.6041904191883702,-0.29306552525491725,10.280143435640866
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -0.6348586273284695,-0.5654059170487429,10.558983763884271
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -0.6645249537330784,-0.9037936359134804,10.828707223886113
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -0.6932978019802079,-1.3027644971041497,11.09030026055575
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -0.7421216035590987,-1.3027644971041497,11.534125407572446
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -0.7914104211149748,-1.3027644971041497,11.98214386501354
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -0.8409480594487206,-1.3027644971041497,12.432406079257134
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -0.8906188368197405,-1.3027644971041497,12.883868883030118
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -0.9403608542351094,-1.3027644971041497,13.33597409832305
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -0.9901409907778316,-1.3027644971041497,13.788423055211979
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -1.0399415241055863,-1.3027644971041497,14.241055941375407
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -1.089752971346357,-1.3027644971041497,14.69378724442663
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -1.1554746182355728,-1.3027644971041497,15.144207351003388
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -1.2346079182626397,-1.3027644971041497,15.59241153663038
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -1.3433905458846453,-1.3027644971041497,16.033353327610712
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -1.4774282111490038,-1.3027644971041497,16.46705992985767
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -1.6249793435246573,-1.3027644971041497,16.89689512686755
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -1.78848111539601,-1.3027644971041497,17.321090926540137
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -1.9645763001444152,-1.3027644971041497,17.740451281334572
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -2.1524143599523455,-1.3027644971041497,18.1548394463789
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -2.3750986782317653,-1.3027644971041497,18.549588300854793
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -2.6257602171179713,-1.3027644971041497,18.92684648610475
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -2.8994873334034423,-1.3027644971041497,19.28799933689197
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -3.1904808127918614,-1.3027644971041497,19.636080330566983
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -3.493129731618424,-1.3027644971041497,19.974875341393272
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -3.805185489794084,-1.3027644971041497,20.30558292103592
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -4.128771193357309,-1.3027644971041497,20.625139539876727
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -4.474839697614783,-1.3027644971041497,20.9184365056542
-[14:04:36] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -4.834839942932007,-1.3027644971041497,21.194948504805325
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -5.202294785121353,-1.3027644971041497,21.462479202971053
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -5.57373843346835,-1.3027644971041497,21.725204186047222
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -5.9473164124620865,-1.3027644971041497,21.98535772679452
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -6.322036429230934,-1.3027644971041497,22.244135340020648
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -6.704526970080082,-1.3027644971041497,22.490969643444487
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -7.094492611281268,-1.3027644971041497,22.725637857838365
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -7.488458029643397,-1.3027644971041497,22.953796240558177
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -7.884563649017409,-1.3027644971041497,23.178471342141165
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -8.28181444728186,-1.3027644971041497,23.40128260943675
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -8.687154380298722,-1.3027644971041497,23.608245346483272
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -9.097282628195345,-1.3027644971041497,23.805710099913767
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -9.509973007915434,-1.3027644971041497,23.998092671680524
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -9.924034333290862,-1.3027644971041497,24.18775586936681
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -10.342696062317188,-1.3027644971041497,24.366774733363627
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -10.774102996690601,-1.3027644971041497,24.50559704382067
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -11.212329636333266,-1.3027644971041497,24.62291097991124
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -11.654205364295251,-1.3027644971041497,24.728716213709276
-[14:04:37] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -12.09868460032419,-1.3027644971041497,24.825097340844877
-[14:04:38] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -12.546713191414895,-1.3027644971041497,24.90273746445041
-[14:04:38] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -12.99683941895077,-1.3027644971041497,24.968696370195175
-[14:04:38] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -13.448088049926099,-1.3027644971041497,25.02840488916104
-[14:04:38] [Server thread/WARN]: Horse (vehicle of gucchu) moved too quickly! -13.899937256603579,-1.3027644971041497,25.084768950780926
-[14:04:49] [Server thread/INFO]: sidmeister has completed the challenge [Hero of the Village]
-[14:04:49] [Server thread/INFO]: shobhit_joe has completed the challenge [Hero of the Village]
-[14:04:54] [Server thread/INFO]: gucchu was shot by Skeleton
-[14:04:55] [Server thread/INFO]: <sidmeister> aa bette
-[14:05:08] [Server thread/INFO]: <sidmeister> ttime to trade
-[14:05:12] [Server thread/INFO]: <gucchu> guys
-[14:05:13] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[14:05:13] [Server thread/INFO]: sidmeister left the game
-[14:05:20] [Server thread/INFO]: <gucchu> mere mein se kuch dhua dhua nika; raha hai
-[14:05:28] [Server thread/INFO]: <gucchu> what is this
-[14:06:38] [Server thread/INFO]: sidmeister[/127.0.0.1:40302] logged in with entity id 8856 at (-121.47806705549431, 65.0, 1160.0575595129958)
-[14:06:38] [Server thread/INFO]: sidmeister joined the game
-[14:07:33] [Server thread/WARN]: gucchu moved too quickly! -0.435856377103903,0.0,-10.128485148398113
-[14:08:04] [Server thread/INFO]: gucchu lost connection: Timed out
-[14:08:04] [Server thread/INFO]: gucchu left the game
-[14:08:46] [Server thread/INFO]: gucchu[/127.0.0.1:40316] logged in with entity id 9220 at (-121.47876284255224, 65.0, 1134.418831537342)
-[14:08:46] [Server thread/INFO]: gucchu joined the game
-[14:09:55] [Server thread/INFO]: <sidmeister> sharpness 5 lele
-[14:10:27] [Server thread/INFO]: <gucchu> they killes my fucking horse motherfuckers
-[14:10:41] [Server thread/INFO]: <sidmeister> mera horse tha wo :(
-[14:10:52] [Server thread/INFO]: <gucchu> hello
-[14:16:54] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[14:16:54] [Server thread/INFO]: shobhit_joe left the game
-[14:17:47] [Server thread/INFO]: shobhit_joe[/127.0.0.1:40334] logged in with entity id 10933 at (-92.17277704362954, 63.0, 1192.5192122534295)
-[14:17:47] [Server thread/INFO]: shobhit_joe joined the game
-[14:22:10] [Server thread/INFO]: <gucchu> where are you guys
-[14:26:31] [Server thread/INFO]: gucchu was shot by Skeleton
-[14:28:08] [Server thread/WARN]: gucchu moved too quickly! 8.998730220339226,0.0,4.451075646612935
-[14:29:09] [Server thread/INFO]: <sidmeister> koi meri cows ko feed kardo
-[14:29:12] [Server thread/INFO]: <sidmeister> twheat
-[14:29:50] [Server thread/WARN]: gucchu moved too quickly! -10.108452125840813,0.0,-0.4151216990176181
-[14:31:43] [Server thread/INFO]: gucchu lost connection: Disconnected
-[14:31:43] [Server thread/INFO]: gucchu left the game
-[14:32:08] [Server thread/INFO]: <sidmeister> almost 600-700 emeralds ka trade kiya hoga abhi oomf
-[14:34:37] [Server thread/WARN]: Trying to add entity with duplicated UUID e77ef37b-ec5d-45ee-aeb8-11925d8d554d. Existing minecraft:armor_stand#13542, new: minecraft:armor_stand#13542
-[14:34:42] [Server thread/WARN]: Trying to add entity with duplicated UUID 8ada09a1-fc68-4c63-8be0-2c4b7103db73. Existing minecraft:armor_stand#13546, new: minecraft:armor_stand#13546
-[14:34:44] [Server thread/WARN]: Trying to add entity with duplicated UUID 27008d8a-c9ab-4180-a4b3-ca944df3ef0c. Existing minecraft:armor_stand#13550, new: minecraft:armor_stand#13550
-[14:38:16] [Server thread/INFO]: <shobhit_joe> sleep
-[14:38:18] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[14:38:18] [Server thread/INFO]: shobhit_joe left the game
-[14:40:31] [Server thread/INFO]: <sidmeister> on bed]
-[14:40:32] [Server thread/INFO]: shobhit_joe[/127.0.0.1:40394] logged in with entity id 14450 at (-126.39843694536242, 63.0, 1182.843448430492)
-[14:40:32] [Server thread/INFO]: shobhit_joe joined the game
-[14:40:47] [Server thread/INFO]: <shobhit_joe> :(
-[14:40:57] [Server thread/INFO]: <sidmeister> bed pe hi hun bhai
-[14:41:02] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[14:41:02] [Server thread/INFO]: shobhit_joe left the game
-[14:41:26] [Server thread/INFO]: shobhit_joe[/127.0.0.1:40402] logged in with entity id 14584 at (-101.10766961675705, 62.080138027521755, 1171.8395054050823)
-[14:41:26] [Server thread/INFO]: shobhit_joe joined the game
-[14:47:41] [Server thread/INFO]: <sidmeister> x8 mending :)
-[14:47:51] [Server thread/INFO]: <sidmeister> 7 ki derahe hain abhi
-[14:58:28] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[14:58:28] [Server thread/INFO]: shobhit_joe left the game
-[14:58:45] [Server thread/INFO]: gucchu[/127.0.0.1:40412] logged in with entity id 17202 at (-69.13180792893085, 67.0, 1198.970561142346)
-[14:58:45] [Server thread/INFO]: gucchu joined the game
-[14:58:50] [Server thread/INFO]: shobhit_joe[/127.0.0.1:40414] logged in with entity id 17249 at (-98.78109687439918, 84.0, 1197.699999988079)
-[14:58:50] [Server thread/INFO]: shobhit_joe joined the game
-[14:58:55] [Server thread/INFO]: <shobhit_joe> sleeeeeeeeeeeeeep
-[14:59:01] [Server thread/INFO]: <sidmeister> bolke leave kiya kar
-[14:59:03] [Server thread/INFO]: gucchu was shot by Skeleton
-[14:59:18] [Server thread/INFO]: <sidmeister> on bed
-[14:59:19] [Server thread/INFO]: <shobhit_joe> woh toh attendance dene gaya tha
-[14:59:24] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[14:59:24] [Server thread/INFO]: shobhit_joe left the game
-[14:59:35] [Server thread/INFO]: <gucchu> lanterns kisne lagaye mere ghar mein :')
-[14:59:39] [Server thread/INFO]: <sidmeister> maine
-[14:59:54] [Server thread/INFO]: <gucchu> i love you siddan
-[14:59:58] [Server thread/INFO]: <gucchu> :')
-[15:00:04] [Server thread/INFO]: <sidmeister> aaja tujhe apna home tour dunga
-[15:00:20] [Server thread/INFO]: shobhit_joe[/127.0.0.1:40416] logged in with entity id 17482 at (-99.6918293058007, 84.0, 1196.9799031540547)
-[15:00:20] [Server thread/INFO]: shobhit_joe joined the game
-[15:00:29] [Server thread/INFO]: <gucchu> why are there soo many monsters
-[15:00:39] [Server thread/INFO]: <shobhit_joe> diamond shovel koi deta hai kya ?
-[15:00:43] [Server thread/INFO]: <sidmeister> ya
-[15:01:11] [Server thread/INFO]: <gucchu> they took my sword :(
-[15:01:16] [Server thread/INFO]: <sidmeister> all types of tools + weapons + armour are available
-[15:01:29] [Server thread/INFO]: <sidmeister> where r u
-[15:01:45] [Server thread/INFO]: <sidmeister> ye le
-[15:02:01] [Server thread/INFO]: <sidmeister> chal
-[15:02:03] [Server thread/INFO]: <gucchu> thanku <3
-[15:02:21] [Server thread/INFO]: <sidmeister> also you can double press W to sprint
-[15:02:38] [Server thread/INFO]: <shobhit_joe> where is the shovel
-[15:02:58] [Server thread/INFO]: <gucchu> tumhare ghar ni khulte
-[15:03:01] [Server thread/INFO]: <sidmeister> this guy
-[15:03:12] [Server thread/INFO]: <sidmeister> idhar aa
-[15:03:14] [Server thread/INFO]: <shobhit_joe> i have no money :,)
-[15:03:27] [Server thread/INFO]: <sidmeister> press button with right click
-[15:03:39] [Server thread/INFO]: <sidmeister> kahan gayi?
-[15:04:31] [Server thread/INFO]: <sidmeister> this is main hall
-[15:04:45] [Server thread/INFO]: <sidmeister> this is master bedroom
-[15:04:54] [Server thread/INFO]: <gucchu> three beds
-[15:05:02] [Server thread/INFO]: <sidmeister> agar koi aur bhi aana chahe
-[15:05:08] [Server thread/INFO]: <gucchu> oh shit
-[15:05:17] [Server thread/INFO]: <gucchu> ye maine respawn point bana diya galti se
-[15:05:27] [Server thread/INFO]: <sidmeister> apne pe click kardiyo wapis jaake
-[15:06:06] [Server thread/INFO]: <gucchu> ohhh bc
-[15:06:18] [Server thread/INFO]: <gucchu> idhar aa siddan
-[15:06:23] [Server thread/INFO]: <gucchu> across the window
-[15:06:31] [Server thread/INFO]: <gucchu> oh nvm'
-[15:06:43] [Server thread/INFO]: <gucchu> heheheh
-[15:07:44] [Server thread/INFO]: <gucchu> atak gayi
-[15:07:52] [Server thread/INFO]: <gucchu> yolo
-[15:08:08] [Server thread/INFO]: <gucchu> gate ni khul raha
-[15:08:36] [Server thread/INFO]: <gucchu> meine raat ko ghusne ki koshish ki thi
-[15:08:41] [Server thread/INFO]: <gucchu> ni ghus paayi'
-[15:08:49] [Server thread/INFO]: <sidmeister> upar button pe right click karde
-[15:09:08] [Server thread/INFO]: <gucchu> OHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-[15:09:15] [Server thread/INFO]: <gucchu> ye button vaala hai
-[15:09:18] [Server thread/INFO]: <gucchu> FUCKS
-[15:09:36] [Server thread/INFO]: <sidmeister> iron door bina button lever ke nahi khulte
-[15:09:37] [Server thread/INFO]: <gucchu> I NEED TO PIMP MY CRIB NOW
-[15:09:47] [Server thread/WARN]: gucchu moved too quickly! -0.4051120150153906,0.0,10.131051666690837
-[15:09:50] [Server thread/INFO]: <shobhit_joe> *castle
-[15:11:20] [Server thread/INFO]: <gucchu> :')
-[15:11:32] [Server thread/INFO]: <gucchu> your acts of kindness won't go unnotced my friend
-[15:11:41] [Server thread/INFO]: <sidmeister> :')
-[15:12:58] [Server thread/INFO]: <sidmeister> bro ye villagers sex nahi karre
-[15:13:13] [Server thread/INFO]: <shobhit_joe> gajar khila
-[15:13:21] [Server thread/INFO]: <gucchu> i have a lot of them
-[15:13:26] [Server thread/INFO]: <gucchu> chhaiye kise ko
-[15:13:40] [Server thread/INFO]: <sidmeister> mere farm se leke mujhe hi bechti hai
-[15:13:48] [Server thread/INFO]: <sidmeister> wapis plant bhi kardiya kar
-[15:14:47] [Server thread/INFO]: <gucchu> mujhe ni pata
-[15:14:54] [Server thread/INFO]: <gucchu> meine toh utha li bas :')
-[15:15:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-100, y=69, z=1199} fx{x=-100, y=71, z=1200}
-[15:15:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-100, y=69, z=1199} fx{x=-100, y=71, z=1200}
-[15:15:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-100, y=69, z=1199} fx{x=-100, y=71, z=1200}
-[15:15:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-100, y=69, z=1199} fx{x=-100, y=71, z=1200}
-[15:15:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-100, y=69, z=1199} fx{x=-100, y=71, z=1200}
-[15:16:12] [Server thread/INFO]: <shobhit_joe> sleeeeeeep
-[15:16:13] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[15:16:13] [Server thread/INFO]: shobhit_joe left the game
-[15:17:10] [Server thread/INFO]: gucchu was shot by Skeleton
-[15:17:11] [Server thread/INFO]: shobhit_joe[/127.0.0.1:40590] logged in with entity id 20316 at (-93.58160031225736, 69.0, 1192.7182716239636)
-[15:17:11] [Server thread/INFO]: shobhit_joe joined the game
-[15:17:38] [Server thread/INFO]: <shobhit_joe> so jao na pleamse :,)
-[15:17:50] [Server thread/INFO]: <gucchu> they're saying i can't sleep
-[15:18:00] [Server thread/INFO]: <gucchu> monsters are nearby
-[15:18:00] [Server thread/INFO]: <sidmeister> mobs around honge
-[15:18:03] [Server thread/INFO]: <shobhit_joe> leave kar ek sec
-[15:18:18] [Server thread/INFO]: gucchu was shot by Skeleton
-[15:18:19] [Server thread/INFO]: <sidmeister> bhai tera ghar nahi bana kya?
-[15:18:28] [Server thread/INFO]: <sidmeister> 3 din hogaye
-[15:18:38] [Server thread/INFO]: <gucchu> ho gaya
-[15:18:39] [Server thread/INFO]: <shobhit_joe> :,)
-[15:18:48] [Server thread/INFO]: <gucchu> but
-[15:18:59] [Server thread/INFO]: <gucchu> i'm expanding
-[15:19:01] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[15:19:01] [Server thread/INFO]: shobhit_joe left the game
-[15:19:37] [Server thread/INFO]: shobhit_joe[/127.0.0.1:40598] logged in with entity id 20646 at (-94.69999998807907, 69.0, 1194.8756564592456)
-[15:19:37] [Server thread/INFO]: shobhit_joe joined the game
-[15:20:22] [Server thread/INFO]: shobhit_joe was blown up by Creeper
-[15:20:23] [Server thread/WARN]: shobhit_joe moved too quickly! -3.5098725726601288,0.0,-9.42023032215775
-[15:20:27] [Server thread/INFO]: <sidmeister> oof
-[15:20:39] [Server thread/INFO]: <sidmeister> thats a lotta damage
-[15:20:45] [Server thread/INFO]: <shobhit_joe> maaa ki chuuuuut in creeper ki maa ka bhosada behenchod
-[15:25:21] [Server thread/INFO]: <sidmeister> shobhit ek kaam karde
-[15:25:38] [Server thread/INFO]: <sidmeister> koi aise hi enchanchment karde
-[15:25:44] [Server thread/INFO]: <sidmeister> mujhe kuch aur chahiye
-[15:26:17] [Server thread/INFO]: <shobhit_joe> wait
-[15:27:12] [Server thread/INFO]: <shobhit_joe> finally exterior complete ho gaya tower ka :,)
-[15:27:20] [Server thread/INFO]: <sidmeister> aabette
-[15:27:38] [Server thread/INFO]: <shobhit_joe> beautiful
-[15:27:43] [Server thread/INFO]: <sidmeister> indeed
-[15:28:17] [Server thread/WARN]: sidmeister moved too quickly! 3.12196444381523,-3.1758716047779245,9.171159365809899
-[15:29:13] [Server thread/INFO]: <shobhit_joe> but gucchu ke castle ke saamne kuch bhi nahi hai yeh
-[15:29:24] [Server thread/INFO]: <gucchu> :')
-[15:30:59] [Server thread/INFO]: <sidmeister> karde aake enchant
-[15:32:01] [Server thread/INFO]: <sidmeister> koi book chahiye hogi toh lele
-[15:32:11] [Server thread/INFO]: <shobhit_joe> i dont have enough levels to enchant
-[15:32:20] [Server thread/INFO]: <sidmeister> 5 bhi nahi?
-[15:32:33] [Server thread/INFO]: <sidmeister> ab?
-[15:32:38] [Server thread/INFO]: gucchu was slain by Zombie
-[15:32:53] [Server thread/INFO]: <shobhit_joe> ho gaya
-[15:33:13] [Server thread/INFO]: gucchu was slain by Zombie
-[15:33:14] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[server.jar:?]
-	at zs.a(SourceFile:939) ~[server.jar:?]
-	at aae.a(SourceFile:467) ~[server.jar:?]
-	at aay.a(SourceFile:931) ~[server.jar:?]
-	at st.a(SourceFile:122) ~[server.jar:?]
-	at st$b.a(SourceFile:18) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at aob.c(SourceFile:144) ~[server.jar:?]
-	at aof.c(SourceFile:23) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
-	at aob.y(SourceFile:118) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
-	at aob.c(SourceFile:127) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_282]
-[15:33:15] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[server.jar:?]
-	at zs.a(SourceFile:939) ~[server.jar:?]
-	at aae.a(SourceFile:467) ~[server.jar:?]
-	at aay.a(SourceFile:931) ~[server.jar:?]
-	at st.a(SourceFile:122) ~[server.jar:?]
-	at st$a.a(SourceFile:56) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at aob.c(SourceFile:144) ~[server.jar:?]
-	at aof.c(SourceFile:23) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
-	at aob.y(SourceFile:118) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
-	at aob.c(SourceFile:127) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_282]
-[15:33:15] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[server.jar:?]
-	at zs.a(SourceFile:939) ~[server.jar:?]
-	at aae.a(SourceFile:467) ~[server.jar:?]
-	at aay.a(SourceFile:931) ~[server.jar:?]
-	at st.a(SourceFile:122) ~[server.jar:?]
-	at st$a.a(SourceFile:56) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at aob.c(SourceFile:144) ~[server.jar:?]
-	at aof.c(SourceFile:23) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
-	at aob.y(SourceFile:118) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
-	at aob.c(SourceFile:127) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_282]
-[15:33:25] [Server thread/INFO]: <sidmeister> unbreaking 3 jaa hi nahi raha
-[15:33:34] [Server thread/INFO]: gucchu was slain by Zombie
-[15:33:55] [Server thread/INFO]: <shobhit_joe> ek min mei teen baar mar gayi yeh XD
-[15:34:04] [Server thread/INFO]: <sidmeister> wr
-[15:34:23] [Server thread/INFO]: <sidmeister> pik dede
-[15:34:26] [Server thread/INFO]: gucchu was slain by Zombie
-[15:34:35] [Server thread/INFO]: <sidmeister> thenk
-[15:35:09] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[15:35:09] [Server thread/INFO]: sidmeister left the game
-[15:35:10] [Server thread/INFO]: sidmeister[/127.0.0.1:40620] logged in with entity id 23261 at (-103.67880312228706, 73.0, 1153.7785863429417)
-[15:35:10] [Server thread/INFO]: sidmeister joined the game
-[15:35:15] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[15:35:15] [Server thread/INFO]: shobhit_joe left the game
-[15:36:58] [Server thread/INFO]: shobhit_joe[/127.0.0.1:40634] logged in with entity id 23510 at (-103.63074746894941, 73.0, 1156.529248859418)
-[15:36:58] [Server thread/INFO]: shobhit_joe joined the game
-[15:37:08] [Server thread/INFO]: <shobhit_joe> sleep
-[15:37:26] [Server thread/INFO]: <sidmeister> fucking yes
-[15:37:29] [Server thread/INFO]: <sidmeister> looting 3 mil gaya
-[15:37:36] [Server thread/INFO]: <shobhit_joe> naice
-[15:37:46] [Server thread/INFO]: <sidmeister> ab maza ayega
-[15:37:57] [Server thread/INFO]: <sidmeister> guchhu soja
-[15:38:48] [Server thread/INFO]: <sidmeister> subah hogayi shobhit
-[15:39:50] [Server thread/INFO]: <shobhit_joe> chain kaise banate hai ?
-[15:39:57] [Server thread/INFO]: <sidmeister> donno
-[15:43:04] [Server thread/INFO]: <sidmeister> nether chalega?
-[15:43:14] [Server thread/INFO]: <shobhit_joe> kya karne
-[15:43:19] [Server thread/INFO]: <sidmeister> blaze rods
-[15:43:31] [Server thread/INFO]: <shobhit_joe> abhi nahi
-[15:43:37] [Server thread/INFO]: <shobhit_joe> gucchu ko leja
-[15:43:37] [Server thread/INFO]: <sidmeister> and ghast tear if possible
-[15:43:40] [Server thread/INFO]: <sidmeister> nahi
-[15:43:46] [Server thread/INFO]: <sidmeister> wo maari jayegai
-[15:43:54] [Server thread/INFO]: <shobhit_joe> mazza ayega XD
-[15:47:36] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[15:47:36] [Server thread/INFO]: sidmeister left the game
-[15:47:43] [Server thread/INFO]: <gucchu> ye dekh
-[15:47:46] [Server thread/INFO]: sidmeister[/127.0.0.1:40706] logged in with entity id 25673 at (26.69999998807907, 57.0, 13.699999988079071)
-[15:47:46] [Server thread/INFO]: sidmeister joined the game
-[15:47:56] [Server thread/INFO]: <gucchu> new roo,
-[15:48:19] [Server thread/INFO]: <shobhit_joe> nice
-[15:53:13] [Server thread/INFO]: <shobhit_joe> blast furnace kaise banta hai ?
-[15:53:28] [Server thread/INFO]: <sidmeister> furnace iron and stones
-[15:53:32] [Server thread/INFO]: <sidmeister> chayad
-[15:54:04] [Server thread/INFO]: <sidmeister> 18 blaze rods laya hun chahiye hon toh leliyo
-[15:55:33] [Server thread/INFO]: gucchu was slain by Spider
-[15:55:34] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[server.jar:?]
-	at zs.a(SourceFile:939) ~[server.jar:?]
-	at aae.a(SourceFile:467) ~[server.jar:?]
-	at aay.a(SourceFile:931) ~[server.jar:?]
-	at st.a(SourceFile:122) ~[server.jar:?]
-	at st$a.a(SourceFile:56) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at aob.c(SourceFile:144) ~[server.jar:?]
-	at aof.c(SourceFile:23) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
-	at aob.y(SourceFile:118) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
-	at aob.c(SourceFile:127) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_282]
-[15:56:49] [Server thread/INFO]: <sidmeister> guchu tune iron use karna start kiya
-[15:58:11] [Server thread/INFO]: gucchu fell from a high place
-[15:59:46] [Server thread/INFO]: gucchu was slain by Enderman
-[16:00:36] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[16:00:36] [Server thread/INFO]: shobhit_joe left the game
-[16:01:08] [Server thread/INFO]: shobhit_joe[/127.0.0.1:40754] logged in with entity id 28939 at (-112.06442019557959, 63.0, 1182.8181315944269)
-[16:01:08] [Server thread/INFO]: shobhit_joe joined the game
-[16:02:19] [Server thread/INFO]: <sidmeister> koi trader lava ya coal deta hai?
-[16:05:50] [Server thread/WARN]: shobhit_joe moved too quickly! -2.8877716534119884,0.7967356006687041,9.780363094420409
-[16:06:21] [Server thread/INFO]: sidmeister has made the advancement [Local Brewery]
-[16:09:46] [Server thread/INFO]: <sidmeister> mai ready ho gaya final boss ke liye
-[16:09:51] [Server thread/INFO]: <sidmeister> aaj raat done karte hain
-[16:10:23] [Server thread/INFO]: <shobhit_joe> done krte hai mtlb ?
-[16:10:29] [Server thread/INFO]: <sidmeister> ender dragon
-[16:10:29] [Server thread/INFO]: <shobhit_joe> aage nahi khelega
-[16:10:38] [Server thread/INFO]: <sidmeister> ender*
-[16:11:08] [Server thread/INFO]: <shobhit_joe> dragon ke baad nahi khelega kya ?
-[16:11:14] [Server thread/INFO]: <sidmeister> khelunga
-[16:11:23] [Server thread/INFO]: <shobhit_joe> phir theek hai
-[16:11:24] [Server thread/INFO]: <sidmeister> tdragon ke liye done keh raha tha
-[16:11:36] [Server thread/INFO]: <shobhit_joe> oh ok
-[16:19:07] [Server thread/INFO]: gucchu lost connection: Timed out
-[16:19:07] [Server thread/INFO]: gucchu left the game
-[16:19:20] [Server thread/INFO]: gucchu[/127.0.0.1:40764] logged in with entity id 32438 at (-73.76004202272972, 63.0, 1206.5742246005739)
-[16:19:20] [Server thread/INFO]: gucchu joined the game
-[16:20:16] [Server thread/INFO]: gucchu was blown up by Creeper
-[16:20:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-75, y=68, z=1214}
-[16:23:43] [Server thread/INFO]: <sidmeister> need any help?
-[16:23:49] [Server thread/INFO]: <gucchu> door
-[16:23:57] [Server thread/INFO]: <sidmeister> door what?
-[16:24:00] [Server thread/INFO]: <gucchu> ye dekh
-[16:24:23] [Server thread/INFO]: <sidmeister> nice
-[16:24:29] [Server thread/INFO]: <gucchu> poora area apna
-[16:24:36] [Server thread/INFO]: <sidmeister> i have smth for ya
-[16:24:39] [Server thread/INFO]: <gucchu> i'll make a castke
-[16:25:18] [Server thread/INFO]: <gucchu> yayyyyyy
-[16:25:31] [Server thread/INFO]: <gucchu> thanks :)
-[16:25:47] [Server thread/INFO]: <gucchu> hahaha
-[16:26:18] [Server thread/INFO]: <sidmeister> lets kill shobhit
-[16:26:35] [Server thread/INFO]: <gucchu> oye
-[16:26:46] [Server thread/INFO]: <gucchu> marr ni raha ye
-[16:26:46] [Server thread/INFO]: <shobhit_joe> pleamse leave me alone
-[16:26:56] [Server thread/INFO]: <sidmeister> guchhu boat pe right lcik kar
-[16:27:01] [Server thread/INFO]: <sidmeister> tclick*
-[16:27:22] [Server thread/INFO]: <sidmeister> halo
-[16:27:27] [Server thread/INFO]: <gucchu> neeche kaise niklu
-[16:27:35] [Server thread/INFO]: <gucchu> my ass is too big
-[16:27:43] [Server thread/INFO]: <sidmeister> :')
-[16:27:50] [Server thread/INFO]: <gucchu> I'M STUCK
-[16:27:59] [Server thread/INFO]: <gucchu> KHIDKI TOD DOONGI
-[16:28:23] [Server thread/INFO]: <gucchu> FINALLY
-[16:28:43] [Server thread/INFO]: <sidmeister> shift daba
-[16:28:58] [Server thread/INFO]: <sidmeister> ab right click kar
-[16:29:04] [Server thread/INFO]: <sidmeister> boat pe
-[16:29:13] [Server thread/INFO]: <gucchu> OH YAAAAAAAAAAAAAAAAAAAAAYYYYYYYYYYYYYYYY
-[16:29:37] [Server thread/INFO]: <gucchu> MERI mundi mud gayi
-[16:31:40] [Server thread/INFO]: <sidmeister> slep
-[16:32:04] [Server thread/INFO]: gucchu lost connection: Disconnected
-[16:32:04] [Server thread/INFO]: gucchu left the game
-[16:32:05] [Server thread/INFO]: <sidmeister> sleeeeeeeeeeep
-[16:32:09] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[16:32:09] [Server thread/INFO]: shobhit_joe left the game
-[16:32:14] [Server thread/INFO]: gucchu[/127.0.0.1:40770] logged in with entity id 34336 at (-76.86768230300093, 63.0, 1214.5988299928808)
-[16:32:14] [Server thread/INFO]: gucchu joined the game
-[16:32:42] [Server thread/INFO]: shobhit_joe[/127.0.0.1:40774] logged in with entity id 34468 at (-99.31158105798588, 69.0, 1193.695643175879)
-[16:32:42] [Server thread/INFO]: shobhit_joe joined the game
-[16:35:15] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[16:35:15] [Server thread/INFO]: sidmeister left the game
-[16:45:16] [Server thread/INFO]: <gucchu> alright boys
-[16:45:24] [Server thread/INFO]: <gucchu> my castle is 10% complete
-[16:46:19] [Server thread/INFO]: <gucchu> you can make your beds here :)
-[16:47:02] [Server thread/INFO]: <gucchu> bye :)
-[16:47:09] [Server thread/INFO]: <shobhit_joe> bye
-[16:47:42] [Server thread/INFO]: <gucchu> woah
-[16:48:03] [Server thread/INFO]: <shobhit_joe> u like it ?
-[16:48:04] [Server thread/INFO]: <gucchu> bas 2 floor hi hai?
-[16:48:12] [Server thread/INFO]: <shobhit_joe> aur banaunga abhi
-[16:48:14] [Server thread/INFO]: <gucchu> yep it's great!!
-[16:48:27] [Server thread/INFO]: <shobhit_joe> youtube ka kamaal hai :,)
-[16:48:33] [Server thread/INFO]: <gucchu> mein apne ghar mein secret dungeons banaongi
-[16:48:39] [Server thread/INFO]: <gucchu> castle*
-[16:49:00] [Server thread/INFO]: <gucchu> voh dekh chutiya
-[16:49:15] [Server thread/INFO]: <shobhit_joe> XD
-[16:49:16] [Server thread/INFO]: gucchu lost connection: Timed out
-[16:49:16] [Server thread/INFO]: gucchu left the game
-[17:01:46] [Server thread/INFO]: <shobhit_joe> did you do this ??
-[17:02:02] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[17:02:02] [Server thread/INFO]: shobhit_joe left the game
-[17:05:59] [Server thread/INFO]: gucchu[/127.0.0.1:40788] logged in with entity id 38076 at (-99.70919416641001, 70.0, 1196.6135231089959)
-[17:05:59] [Server thread/INFO]: gucchu joined the game
-[17:13:35] [Server thread/INFO]: shobhit_joe[/127.0.0.1:40872] logged in with entity id 39286 at (-98.42295579844759, 64.0, 1193.629391640003)
-[17:13:35] [Server thread/INFO]: shobhit_joe joined the game
-[17:15:18] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[17:15:18] [Server thread/INFO]: shobhit_joe left the game
-[17:17:52] [Server thread/INFO]: rachit4102k[/127.0.0.1:40900] logged in with entity id 39814 at (-71.78268353626467, 67.0, 1222.8162907031492)
-[17:17:52] [Server thread/INFO]: rachit4102k joined the game
-[17:17:58] [Server thread/INFO]: rachit4102k lost connection: Disconnected
-[17:17:58] [Server thread/INFO]: rachit4102k left the game
-[17:17:58] [Server thread/INFO]: gucchu was blown up by Creeper
-[17:18:00] [Server thread/INFO]: rachit4102k[/127.0.0.1:40902] logged in with entity id 39864 at (-71.78268353626467, 67.0, 1222.8162907031492)
-[17:18:00] [Server thread/INFO]: rachit4102k joined the game
-[17:18:10] [Server thread/INFO]: [Server] i closing the server mujhe jana hai kahin
-[17:18:16] [Server thread/INFO]: [Server] i'm
-[17:18:21] [Server thread/INFO]: [Server] rachit chalade tu
-[17:18:40] [Server thread/INFO]: Stopping the server
-[17:18:40] [Server thread/INFO]: Stopping server
-[17:18:40] [Server thread/INFO]: Saving players
-[17:18:40] [Server thread/INFO]: Saving worlds
-[17:18:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:18:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:18:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:36:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:36:30] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:36:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:36:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:36:30] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:36:30] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:36:30] [main/INFO]: Reloading ResourceManager: Default
+[17:36:31] [Worker-Main-14/INFO]: Loaded 7 recipes
+[17:36:31] [Worker-Main-14/INFO]: Loaded 927 advancements
+[17:36:34] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[17:36:34] [Server thread/INFO]: Loading properties
+[17:36:34] [Server thread/INFO]: Default game type: SURVIVAL
+[17:36:34] [Server thread/INFO]: Generating keypair
+[17:36:34] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_51]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_51]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_51]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_51]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_51]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_51]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_51]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_51]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_51]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_51]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_51]
+	at zg$1.run(SourceFile:95) [server.jar:?]
+[17:36:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:36:34] [Server thread/INFO]: Using default channel type
+[17:36:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:36:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:36:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:36:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:36:36] [Server thread/INFO]: Preparing level "world"
+[17:36:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:36:38] [Server thread/INFO]: Preparing spawn area: 0%
+[17:36:38] [Server thread/INFO]: Preparing spawn area: 0%
+[17:36:38] [Server thread/INFO]: Preparing spawn area: 0%
+[17:36:38] [Server thread/INFO]: Preparing spawn area: 0%
+[17:36:38] [Server thread/INFO]: Preparing spawn area: 48%
+[17:36:39] [Server thread/INFO]: Time elapsed: 3106 ms
+[17:36:39] [Server thread/INFO]: Done (3.265s)! For help, type "help"
+[17:39:24] [Server thread/INFO]: rachit4102k[/0:0:0:0:0:0:0:1:50861] logged in with entity id 141 at (-87.03078831249351, 69.0, 1225.605890427105)
+[17:39:24] [Server thread/INFO]: rachit4102k joined the game
+[17:39:31] [Server thread/INFO]: rachit4102k lost connection: Disconnected
+[17:39:31] [Server thread/INFO]: rachit4102k left the game
+[17:39:32] [Server thread/INFO]: rachit4102k[/0:0:0:0:0:0:0:1:50862] logged in with entity id 503 at (-87.03078831249351, 69.0, 1225.605890427105)
+[17:39:32] [Server thread/INFO]: rachit4102k joined the game
+[17:39:41] [Server thread/INFO]: gucchu[/0:0:0:0:0:0:0:1:50863] logged in with entity id 867 at (-83.54389548724676, 63.0, 1219.861807438049)
+[17:39:41] [Server thread/INFO]: gucchu joined the game
+[17:41:57] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:50865] logged in with entity id 1127 at (-122.61174614357172, 63.0, 1189.090625983667)
+[17:41:57] [Server thread/INFO]: shobhit_joe joined the game
+[17:42:14] [Server thread/INFO]: <gucchu> chal
+[17:42:18] [Server thread/INFO]: <gucchu> dikhati hoon
+[17:42:47] [Server thread/INFO]: <gucchu> chal
+[17:43:41] [Server thread/INFO]: <rachit4102k> tf is this
+[17:44:06] [Server thread/WARN]: rachit4102k moved too quickly! 2.979779422313179,1.0900619192267342,9.774684789655112
+[17:44:20] [Server thread/INFO]: <gucchu> it's a maze type home
+[17:46:20] [Server thread/INFO]: <rachit4102k> mera net tatti hai toh aisa hi chalega :(
+[17:49:14] [Server thread/INFO]: <gucchu> ye kya ho raha hai bro
+[17:49:25] [Server thread/INFO]: <gucchu> itni darwani awazz kaun nikal raha hai
+[17:49:25] [Server thread/INFO]: <rachit4102k> kya
+[17:49:33] [Server thread/INFO]: <rachit4102k> kaun
+[17:49:40] [Server thread/INFO]: <gucchu> you don't hear it?
+[17:49:45] [Server thread/INFO]: <shobhit_joe> phantom ki baat kar rahi hai
+[17:49:52] [Server thread/INFO]: <gucchu> oh fuck it'ss outside my gate
+[17:49:58] [Server thread/INFO]: <rachit4102k> creeper incoming
+[17:50:07] [Server thread/INFO]: <rachit4102k> @ shobhit
+[17:51:12] [Server thread/INFO]: gucchu lost connection: Timed out
+[17:51:12] [Server thread/INFO]: gucchu left the game
+[17:51:40] [Server thread/INFO]: gucchu[/0:0:0:0:0:0:0:1:50879] logged in with entity id 2689 at (-69.44841401067073, 66.0, 1216.3341653419923)
+[17:51:40] [Server thread/INFO]: gucchu joined the game
+[17:51:45] [Server thread/INFO]: rachit4102k lost connection: Disconnected
+[17:51:45] [Server thread/INFO]: rachit4102k left the game
+[17:51:45] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[17:51:45] [Server thread/INFO]: shobhit_joe left the game
+[17:51:45] [Server thread/INFO]: gucchu lost connection: Disconnected
+[17:51:45] [Server thread/INFO]: gucchu left the game
+[17:51:48] [Server thread/INFO]: rachit4102k[/0:0:0:0:0:0:0:1:50884] logged in with entity id 2707 at (-158.40974554062333, 42.0, 1170.819249243561)
+[17:51:48] [Server thread/INFO]: rachit4102k joined the game
+[17:52:13] [Server thread/INFO]: rachit4102k lost connection: Disconnected
+[17:52:13] [Server thread/INFO]: rachit4102k left the game
+[17:52:14] [Server thread/INFO]: rachit4102k[/0:0:0:0:0:0:0:1:50885] logged in with entity id 3139 at (-158.6979703391237, 42.0, 1171.1434031590873)
+[17:52:14] [Server thread/INFO]: rachit4102k joined the game
+[17:52:24] [Server thread/INFO]: gucchu[/0:0:0:0:0:0:0:1:50886] logged in with entity id 3530 at (-69.44841401067073, 66.0, 1216.3341653419923)
+[17:52:24] [Server thread/INFO]: gucchu joined the game
+[17:54:46] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:50889] logged in with entity id 4099 at (-20.33036521172544, 63.0, 1219.8674385465702)
+[17:54:46] [Server thread/INFO]: shobhit_joe joined the game
+[17:55:36] [Server thread/INFO]: <shobhit_joe> bhai kya potty net hai tera
+[17:55:51] [Server thread/INFO]: <rachit4102k> :(
+[17:56:04] [Server thread/INFO]: <rachit4102k> modem kaafi door hai bhai mere room se
+[18:01:31] [Server thread/INFO]: rachit4102k lost connection: Disconnected
+[18:01:31] [Server thread/INFO]: rachit4102k left the game
+[18:01:36] [Server thread/INFO]: rachit4102k[/0:0:0:0:0:0:0:1:50897] logged in with entity id 5267 at (-49.3228487468169, 69.0, 1226.744108193819)
+[18:01:36] [Server thread/INFO]: rachit4102k joined the game
+[18:02:31] [Server thread/INFO]: <gucchu> iss admi ko nikalu kaise apnw ghar se
+[18:02:41] [Server thread/INFO]: <rachit4102k> maarde
+[18:02:48] [Server thread/INFO]: <shobhit_joe> end him
+[18:05:49] [Server thread/INFO]: <gucchu> GATE BAND KARKE JAAYA KAR
+[18:05:53] [Server thread/INFO]: <gucchu> GHUS JAATE HAI
+[18:06:03] [Server thread/INFO]: <rachit4102k> whaddup ma nihga
+[18:06:06] [Server thread/INFO]: <shobhit_joe> food hai ?
+[18:06:24] [Server thread/INFO]: <shobhit_joe> thank :,)
+[18:06:49] [Server thread/INFO]: <shobhit_joe> use dirt
+[18:06:57] [Server thread/INFO]: <rachit4102k> F
+[18:08:00] [Server thread/INFO]: gucchu was slain by Zombie
+[18:08:14] [Server thread/INFO]: <rachit4102k> big F
+[18:08:27] [Server thread/INFO]: <shobhit_joe> bhai mai toh F likh likh ke thak gaya hun
+[18:08:36] [Server thread/INFO]: <shobhit_joe> kahan phata
+[18:08:39] [Server thread/INFO]: <rachit4102k> kya fata
+[18:09:05] [Server thread/INFO]: <rachit4102k> abe o
+[18:09:11] [Server thread/INFO]: gucchu was slain by rachit4102k
+[18:09:22] [Server thread/INFO]: <gucchu> maara kyu
+[18:09:22] [Server thread/INFO]: <shobhit_joe> wtf XD
+[18:09:31] [Server thread/INFO]: <gucchu> i was hiding from zombies
+[18:09:36] [Server thread/INFO]: <rachit4102k> bc ghar ke saamne uda diya creeper
+[18:09:49] [Server thread/INFO]: <gucchu> mere ghar ke samne uda hai
+[18:09:51] [Server thread/INFO]: <shobhit_joe> arre yeh trader nautilus shell de raha hai
+[18:09:58] [Server thread/INFO]: <gucchu> mujhe dekhkar hi udd gaya
+[18:10:01] [Server thread/INFO]: <rachit4102k> mai le raha hu
+[18:10:07] [Server thread/INFO]: <gucchu> saman de mujhe
+[18:10:12] [Server thread/INFO]: <shobhit_joe> bohot OP trader hai gucchu ke ghar
+[18:10:29] [Server thread/INFO]: <rachit4102k> idhar aa
+[18:10:47] [Server thread/INFO]: <rachit4102k> abe idhar aa na
+[18:10:52] [Server thread/INFO]: <rachit4102k> fir waha jaa rahi hai
+[18:11:44] [Server thread/INFO]: <gucchu> thanks
+[18:11:48] [Server thread/INFO]: <gucchu> :')
+[18:13:13] [Server thread/INFO]: <rachit4102k> 1 aur iron farm banana padega
+[18:14:39] [Server thread/INFO]: rachit4102k has made the advancement [Cover Me With Diamonds]
+[18:15:28] [Server thread/INFO]: <rachit4102k> trader kaha hai
+[18:15:35] [Server thread/INFO]: <shobhit_joe> gucchu ke ghar
+[18:20:28] [Server thread/INFO]: gucchu was shot by Pillager
+[18:20:36] [Server thread/INFO]: <rachit4102k> hahaha
+[18:21:00] [Server thread/INFO]: rachit4102k lost connection: Disconnected
+[18:21:00] [Server thread/INFO]: rachit4102k left the game
+[18:22:16] [Server thread/INFO]: gucchu was shot by Pillager
+[18:22:32] [Server thread/INFO]: <gucchu> madarchod
+[18:22:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:22:38] [Server thread/INFO]: hahaha<--[HERE]
+[18:22:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:22:55] [Server thread/INFO]: jab khel lo toh bata dena band kar duunga server<--[HERE]
+[18:23:14] [Server thread/INFO]: gucchu lost connection: Disconnected
+[18:23:14] [Server thread/INFO]: gucchu left the game
+[18:24:45] [Server thread/INFO]: sidmeister[/0:0:0:0:0:0:0:1:50920] logged in with entity id 8562 at (-128.09095810202652, 63.0, 1113.1476386277964)
+[18:24:45] [Server thread/INFO]: sidmeister joined the game
+[18:25:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:25:29] [Server thread/INFO]: aur baby<--[HERE]
+[18:28:27] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[18:28:27] [Server thread/INFO]: shobhit_joe left the game
+[18:29:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:29:06] [Server thread/INFO]: band kar raha hu server kaam karna hai todha<--[HERE]
+[18:30:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:30:58] [Server thread/INFO]: kardu band ?<--[HERE]
+[18:31:38] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[18:31:38] [Server thread/INFO]: sidmeister left the game
+[18:32:01] [Server thread/INFO]: Stopping the server
+[18:32:01] [Server thread/INFO]: Stopping server
+[18:32:01] [Server thread/INFO]: Saving players
+[18:32:01] [Server thread/INFO]: Saving worlds
+[18:32:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:32:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:32:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
