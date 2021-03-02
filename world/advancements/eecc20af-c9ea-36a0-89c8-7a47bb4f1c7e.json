@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2021-03-02 16:07:05 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-02-15 21:46:41 +0530"
@@ -239,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-03-02 16:19:36 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-02-17 14:34:17 +0530"
@@ -266,6 +278,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-02-17 00:20:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2021-03-02 16:19:36 +0530"
     },
     "done": true
   },
@@ -440,6 +458,12 @@
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2021-02-17 14:24:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2021-03-02 16:19:36 +0530"
     },
     "done": true
   },
@@ -658,6 +682,7 @@
       "minecraft:wither_skeleton": "2021-02-16 13:21:18 +0530",
       "minecraft:husk": "2021-02-16 00:12:25 +0530",
       "minecraft:cave_spider": "2021-02-15 23:30:39 +0530",
+      "minecraft:piglin": "2021-03-02 16:07:37 +0530",
       "minecraft:silverfish": "2021-02-28 17:15:53 +0530",
       "minecraft:enderman": "2021-02-28 23:50:14 +0530",
       "minecraft:vex": "2021-03-02 14:15:39 +0530",
@@ -723,6 +748,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2021-02-28 16:58:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_crimson_planks": "2021-03-02 16:19:36 +0530"
     },
     "done": true
   },
@@ -972,6 +1003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2021-03-02 16:19:36 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2021-02-16 13:19:53 +0530"
@@ -999,6 +1036,18 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-02-17 14:27:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2021-03-02 16:19:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-03-02 16:19:36 +0530"
     },
     "done": true
   },
@@ -1563,6 +1612,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2021-03-02 16:06:46 +0530",
       "minecraft:nether_wastes": "2021-02-16 00:28:00 +0530",
       "minecraft:warped_forest": "2021-02-16 00:28:24 +0530",
       "minecraft:basalt_deltas": "2021-02-16 13:27:46 +0530"
@@ -1953,6 +2003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2021-03-02 16:15:52 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-02-15 23:16:57 +0530"
@@ -2287,6 +2343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2021-03-02 16:19:36 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_the_recipe": "2021-02-15 21:53:02 +0530"
@@ -2401,6 +2463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2021-03-02 16:15:52 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2021-02-27 23:11:40 +0530"
@@ -2428,6 +2496,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2021-02-15 23:35:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-03-02 16:19:36 +0530"
     },
     "done": true
   },
@@ -2902,6 +2976,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-02-17 14:07:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2021-03-02 16:07:05 +0530"
     },
     "done": true
   },
