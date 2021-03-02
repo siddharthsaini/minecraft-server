@@ -1,8 +1,88 @@
 [
   {
+    "uuid": "6ac3509e-5614-31d0-a348-93e94968cfcb",
+    "name": "IRONMELTS",
+    "created": "2021-03-02 14:01:29 +0530",
+    "source": "sidmeister",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "fad77bc4-ccea-3152-8cea-7fc45d1b5160",
+    "name": "kittunni",
+    "created": "2021-03-02 14:14:56 +0530",
+    "source": "sidmeister",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "12441fc3-609d-30cb-9b7e-b9204fb54002",
+    "name": "pc__dominator",
+    "created": "2021-03-02 13:41:17 +0530",
+    "source": "sidmeister",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "b1756751-eecb-37f8-81b4-37f049fdfc9b",
+    "name": "kudu9013",
+    "created": "2021-03-02 13:51:28 +0530",
+    "source": "sidmeister",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "c71ff15d-92b4-31ea-8245-0a69f521c4a3",
+    "name": "pronoobzzzz",
+    "created": "2021-03-02 13:19:02 +0530",
+    "source": "sidmeister",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "d247f5aa-da69-3413-b91e-653bc80bc1ef",
+    "name": "FFDREAM",
+    "created": "2021-03-02 13:45:31 +0530",
+    "source": "sidmeister",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "d5f5a64e-943e-3d4d-bb5d-0214653874d6",
+    "name": "PRIMEPRO",
+    "created": "2021-03-02 13:04:57 +0530",
+    "source": "sidmeister",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "08b98cb0-26d3-3e9b-ad25-6339e0021a46",
+    "name": "njnhero129",
+    "created": "2021-03-02 13:40:10 +0530",
+    "source": "sidmeister",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "a69a4b2f-f441-310b-89f1-e9747f944667",
+    "name": "aflahali123",
+    "created": "2021-03-02 14:04:11 +0530",
+    "source": "sidmeister",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
     "uuid": "b862c3b1-7346-3fa5-bb6b-d6b66e128fa8",
     "name": "IamAndrewYT",
     "created": "2021-02-15 22:07:40 +0530",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "c22bba97-d81c-3ba7-9ff8-193ef30a4ab8",
+    "name": "appus2140",
+    "created": "2021-03-02 13:01:36 +0530",
     "source": "Server",
     "expires": "forever",
     "reason": "Banned by an operator."

@@ -1,168 +1,54 @@
-[17:36:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:36:30] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:36:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:36:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:36:30] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:36:30] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:36:30] [main/INFO]: Reloading ResourceManager: Default
-[17:36:31] [Worker-Main-14/INFO]: Loaded 7 recipes
-[17:36:31] [Worker-Main-14/INFO]: Loaded 927 advancements
-[17:36:34] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[17:36:34] [Server thread/INFO]: Loading properties
-[17:36:34] [Server thread/INFO]: Default game type: SURVIVAL
-[17:36:34] [Server thread/INFO]: Generating keypair
-[17:36:34] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: The handle is invalid
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_51]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_51]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_51]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_51]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_51]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_51]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_51]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_51]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_51]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_51]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_51]
-	at zg$1.run(SourceFile:95) [server.jar:?]
-[17:36:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:36:34] [Server thread/INFO]: Using default channel type
-[17:36:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:36:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:36:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:36:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:36:36] [Server thread/INFO]: Preparing level "world"
-[17:36:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:36:38] [Server thread/INFO]: Preparing spawn area: 0%
-[17:36:38] [Server thread/INFO]: Preparing spawn area: 0%
-[17:36:38] [Server thread/INFO]: Preparing spawn area: 0%
-[17:36:38] [Server thread/INFO]: Preparing spawn area: 0%
-[17:36:38] [Server thread/INFO]: Preparing spawn area: 48%
-[17:36:39] [Server thread/INFO]: Time elapsed: 3106 ms
-[17:36:39] [Server thread/INFO]: Done (3.265s)! For help, type "help"
-[17:39:24] [Server thread/INFO]: rachit4102k[/0:0:0:0:0:0:0:1:50861] logged in with entity id 141 at (-87.03078831249351, 69.0, 1225.605890427105)
-[17:39:24] [Server thread/INFO]: rachit4102k joined the game
-[17:39:31] [Server thread/INFO]: rachit4102k lost connection: Disconnected
-[17:39:31] [Server thread/INFO]: rachit4102k left the game
-[17:39:32] [Server thread/INFO]: rachit4102k[/0:0:0:0:0:0:0:1:50862] logged in with entity id 503 at (-87.03078831249351, 69.0, 1225.605890427105)
-[17:39:32] [Server thread/INFO]: rachit4102k joined the game
-[17:39:41] [Server thread/INFO]: gucchu[/0:0:0:0:0:0:0:1:50863] logged in with entity id 867 at (-83.54389548724676, 63.0, 1219.861807438049)
-[17:39:41] [Server thread/INFO]: gucchu joined the game
-[17:41:57] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:50865] logged in with entity id 1127 at (-122.61174614357172, 63.0, 1189.090625983667)
-[17:41:57] [Server thread/INFO]: shobhit_joe joined the game
-[17:42:14] [Server thread/INFO]: <gucchu> chal
-[17:42:18] [Server thread/INFO]: <gucchu> dikhati hoon
-[17:42:47] [Server thread/INFO]: <gucchu> chal
-[17:43:41] [Server thread/INFO]: <rachit4102k> tf is this
-[17:44:06] [Server thread/WARN]: rachit4102k moved too quickly! 2.979779422313179,1.0900619192267342,9.774684789655112
-[17:44:20] [Server thread/INFO]: <gucchu> it's a maze type home
-[17:46:20] [Server thread/INFO]: <rachit4102k> mera net tatti hai toh aisa hi chalega :(
-[17:49:14] [Server thread/INFO]: <gucchu> ye kya ho raha hai bro
-[17:49:25] [Server thread/INFO]: <gucchu> itni darwani awazz kaun nikal raha hai
-[17:49:25] [Server thread/INFO]: <rachit4102k> kya
-[17:49:33] [Server thread/INFO]: <rachit4102k> kaun
-[17:49:40] [Server thread/INFO]: <gucchu> you don't hear it?
-[17:49:45] [Server thread/INFO]: <shobhit_joe> phantom ki baat kar rahi hai
-[17:49:52] [Server thread/INFO]: <gucchu> oh fuck it'ss outside my gate
-[17:49:58] [Server thread/INFO]: <rachit4102k> creeper incoming
-[17:50:07] [Server thread/INFO]: <rachit4102k> @ shobhit
-[17:51:12] [Server thread/INFO]: gucchu lost connection: Timed out
-[17:51:12] [Server thread/INFO]: gucchu left the game
-[17:51:40] [Server thread/INFO]: gucchu[/0:0:0:0:0:0:0:1:50879] logged in with entity id 2689 at (-69.44841401067073, 66.0, 1216.3341653419923)
-[17:51:40] [Server thread/INFO]: gucchu joined the game
-[17:51:45] [Server thread/INFO]: rachit4102k lost connection: Disconnected
-[17:51:45] [Server thread/INFO]: rachit4102k left the game
-[17:51:45] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[17:51:45] [Server thread/INFO]: shobhit_joe left the game
-[17:51:45] [Server thread/INFO]: gucchu lost connection: Disconnected
-[17:51:45] [Server thread/INFO]: gucchu left the game
-[17:51:48] [Server thread/INFO]: rachit4102k[/0:0:0:0:0:0:0:1:50884] logged in with entity id 2707 at (-158.40974554062333, 42.0, 1170.819249243561)
-[17:51:48] [Server thread/INFO]: rachit4102k joined the game
-[17:52:13] [Server thread/INFO]: rachit4102k lost connection: Disconnected
-[17:52:13] [Server thread/INFO]: rachit4102k left the game
-[17:52:14] [Server thread/INFO]: rachit4102k[/0:0:0:0:0:0:0:1:50885] logged in with entity id 3139 at (-158.6979703391237, 42.0, 1171.1434031590873)
-[17:52:14] [Server thread/INFO]: rachit4102k joined the game
-[17:52:24] [Server thread/INFO]: gucchu[/0:0:0:0:0:0:0:1:50886] logged in with entity id 3530 at (-69.44841401067073, 66.0, 1216.3341653419923)
-[17:52:24] [Server thread/INFO]: gucchu joined the game
-[17:54:46] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:50889] logged in with entity id 4099 at (-20.33036521172544, 63.0, 1219.8674385465702)
-[17:54:46] [Server thread/INFO]: shobhit_joe joined the game
-[17:55:36] [Server thread/INFO]: <shobhit_joe> bhai kya potty net hai tera
-[17:55:51] [Server thread/INFO]: <rachit4102k> :(
-[17:56:04] [Server thread/INFO]: <rachit4102k> modem kaafi door hai bhai mere room se
-[18:01:31] [Server thread/INFO]: rachit4102k lost connection: Disconnected
-[18:01:31] [Server thread/INFO]: rachit4102k left the game
-[18:01:36] [Server thread/INFO]: rachit4102k[/0:0:0:0:0:0:0:1:50897] logged in with entity id 5267 at (-49.3228487468169, 69.0, 1226.744108193819)
-[18:01:36] [Server thread/INFO]: rachit4102k joined the game
-[18:02:31] [Server thread/INFO]: <gucchu> iss admi ko nikalu kaise apnw ghar se
-[18:02:41] [Server thread/INFO]: <rachit4102k> maarde
-[18:02:48] [Server thread/INFO]: <shobhit_joe> end him
-[18:05:49] [Server thread/INFO]: <gucchu> GATE BAND KARKE JAAYA KAR
-[18:05:53] [Server thread/INFO]: <gucchu> GHUS JAATE HAI
-[18:06:03] [Server thread/INFO]: <rachit4102k> whaddup ma nihga
-[18:06:06] [Server thread/INFO]: <shobhit_joe> food hai ?
-[18:06:24] [Server thread/INFO]: <shobhit_joe> thank :,)
-[18:06:49] [Server thread/INFO]: <shobhit_joe> use dirt
-[18:06:57] [Server thread/INFO]: <rachit4102k> F
-[18:08:00] [Server thread/INFO]: gucchu was slain by Zombie
-[18:08:14] [Server thread/INFO]: <rachit4102k> big F
-[18:08:27] [Server thread/INFO]: <shobhit_joe> bhai mai toh F likh likh ke thak gaya hun
-[18:08:36] [Server thread/INFO]: <shobhit_joe> kahan phata
-[18:08:39] [Server thread/INFO]: <rachit4102k> kya fata
-[18:09:05] [Server thread/INFO]: <rachit4102k> abe o
-[18:09:11] [Server thread/INFO]: gucchu was slain by rachit4102k
-[18:09:22] [Server thread/INFO]: <gucchu> maara kyu
-[18:09:22] [Server thread/INFO]: <shobhit_joe> wtf XD
-[18:09:31] [Server thread/INFO]: <gucchu> i was hiding from zombies
-[18:09:36] [Server thread/INFO]: <rachit4102k> bc ghar ke saamne uda diya creeper
-[18:09:49] [Server thread/INFO]: <gucchu> mere ghar ke samne uda hai
-[18:09:51] [Server thread/INFO]: <shobhit_joe> arre yeh trader nautilus shell de raha hai
-[18:09:58] [Server thread/INFO]: <gucchu> mujhe dekhkar hi udd gaya
-[18:10:01] [Server thread/INFO]: <rachit4102k> mai le raha hu
-[18:10:07] [Server thread/INFO]: <gucchu> saman de mujhe
-[18:10:12] [Server thread/INFO]: <shobhit_joe> bohot OP trader hai gucchu ke ghar
-[18:10:29] [Server thread/INFO]: <rachit4102k> idhar aa
-[18:10:47] [Server thread/INFO]: <rachit4102k> abe idhar aa na
-[18:10:52] [Server thread/INFO]: <rachit4102k> fir waha jaa rahi hai
-[18:11:44] [Server thread/INFO]: <gucchu> thanks
-[18:11:48] [Server thread/INFO]: <gucchu> :')
-[18:13:13] [Server thread/INFO]: <rachit4102k> 1 aur iron farm banana padega
-[18:14:39] [Server thread/INFO]: rachit4102k has made the advancement [Cover Me With Diamonds]
-[18:15:28] [Server thread/INFO]: <rachit4102k> trader kaha hai
-[18:15:35] [Server thread/INFO]: <shobhit_joe> gucchu ke ghar
-[18:20:28] [Server thread/INFO]: gucchu was shot by Pillager
-[18:20:36] [Server thread/INFO]: <rachit4102k> hahaha
-[18:21:00] [Server thread/INFO]: rachit4102k lost connection: Disconnected
-[18:21:00] [Server thread/INFO]: rachit4102k left the game
-[18:22:16] [Server thread/INFO]: gucchu was shot by Pillager
-[18:22:32] [Server thread/INFO]: <gucchu> madarchod
-[18:22:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:22:38] [Server thread/INFO]: hahaha<--[HERE]
-[18:22:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:22:55] [Server thread/INFO]: jab khel lo toh bata dena band kar duunga server<--[HERE]
-[18:23:14] [Server thread/INFO]: gucchu lost connection: Disconnected
-[18:23:14] [Server thread/INFO]: gucchu left the game
-[18:24:45] [Server thread/INFO]: sidmeister[/0:0:0:0:0:0:0:1:50920] logged in with entity id 8562 at (-128.09095810202652, 63.0, 1113.1476386277964)
-[18:24:45] [Server thread/INFO]: sidmeister joined the game
-[18:25:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:25:29] [Server thread/INFO]: aur baby<--[HERE]
-[18:28:27] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[18:28:27] [Server thread/INFO]: shobhit_joe left the game
-[18:29:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:29:06] [Server thread/INFO]: band kar raha hu server kaam karna hai todha<--[HERE]
-[18:30:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:30:58] [Server thread/INFO]: kardu band ?<--[HERE]
-[18:31:38] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[18:31:38] [Server thread/INFO]: sidmeister left the game
-[18:32:01] [Server thread/INFO]: Stopping the server
-[18:32:01] [Server thread/INFO]: Stopping server
-[18:32:01] [Server thread/INFO]: Saving players
-[18:32:01] [Server thread/INFO]: Saving worlds
-[18:32:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:32:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:32:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:55:08] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:55:09] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:55:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:55:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:55:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:55:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:55:09] [main/INFO]: Reloading ResourceManager: Default
+[14:55:10] [Worker-Main-12/INFO]: Loaded 7 recipes
+[14:55:10] [Worker-Main-12/INFO]: Loaded 927 advancements
+[14:55:12] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[14:55:12] [Server thread/INFO]: Loading properties
+[14:55:12] [Server thread/INFO]: Default game type: SURVIVAL
+[14:55:12] [Server thread/INFO]: Generating keypair
+[14:55:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:55:12] [Server thread/INFO]: Using epoll channel type
+[14:55:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:55:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:55:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:55:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:55:12] [Server thread/INFO]: Preparing level "world"
+[14:55:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:55:15] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:15] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:15] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:15] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:15] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:15] [Server thread/INFO]: Preparing spawn area: 15%
+[14:55:15] [Server thread/INFO]: Time elapsed: 2809 ms
+[14:55:15] [Server thread/INFO]: Done (2.926s)! For help, type "help"
+[14:55:28] [Server thread/INFO]: sidmeister[/127.0.0.1:59072] logged in with entity id 143 at (-102.64609658649437, 87.0, 1158.106207194098)
+[14:55:28] [Server thread/INFO]: sidmeister joined the game
+[14:55:30] [Server thread/INFO]: rachit4102k[/127.0.0.1:59074] logged in with entity id 466 at (-53.61570162435188, 63.0, 1243.820871356333)
+[14:55:30] [Server thread/INFO]: rachit4102k joined the game
+[14:55:34] [Server thread/INFO]: shobhit_joe[/127.0.0.1:59076] logged in with entity id 615 at (-106.46734175858514, 63.0, 1185.2192998814246)
+[14:55:34] [Server thread/INFO]: shobhit_joe joined the game
+[14:55:49] [Server thread/INFO]: <sidmeister> creeper kidhar?
+[14:55:55] [Server thread/INFO]: <shobhit_joe> ghar ke saamne\
+[14:56:03] [Server thread/INFO]: <sidmeister> mere?
+[14:56:07] [Server thread/INFO]: <shobhit_joe> mere
+[14:56:26] [Server thread/INFO]: sidmeister fell from a high place
+[14:56:39] [Server thread/INFO]: <shobhit_joe> :,)
+[14:57:31] [Server thread/INFO]: <sidmeister> girke mar gaya
+[14:57:38] [Server thread/INFO]: <sidmeister> ladte waqt ek baar bhi nahi gaya
+[14:57:42] [Server thread/INFO]: <sidmeister> lmfao
+[14:58:49] [Server thread/INFO]: <shobhit_joe> sleep sleep
+[14:58:55] [Server thread/INFO]: rachit4102k lost connection: Disconnected
+[14:58:55] [Server thread/INFO]: rachit4102k left the game
+[14:58:57] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[14:58:57] [Server thread/INFO]: sidmeister left the game
+[14:59:09] [Server thread/INFO]: sidmeister[/127.0.0.1:59088] logged in with entity id 1265 at (-136.78589958364307, 63.0, 1111.389738956828)
+[14:59:09] [Server thread/INFO]: sidmeister joined the game
+[14:59:20] [Server thread/INFO]: rachit4102k[/127.0.0.1:59092] logged in with entity id 1345 at (-31.22960426924051, 67.0, 1236.6713163714585)
+[14:59:20] [Server thread/INFO]: rachit4102k joined the game
+[14:59:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind

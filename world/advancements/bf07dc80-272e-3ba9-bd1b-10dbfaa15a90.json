@@ -568,15 +568,19 @@
       "minecraft:pillager": "2021-02-17 14:57:32 +0530",
       "minecraft:blaze": "2021-02-28 22:44:18 +0530",
       "minecraft:skeleton": "2021-02-15 22:22:25 +0530",
+      "minecraft:vindicator": "2021-03-02 14:21:00 +0530",
       "minecraft:magma_cube": "2021-02-28 23:22:59 +0530",
       "minecraft:spider": "2021-02-15 21:47:49 +0530",
       "minecraft:creeper": "2021-02-15 23:20:59 +0530",
       "minecraft:slime": "2021-02-15 21:50:16 +0530",
+      "minecraft:evoker": "2021-03-02 14:37:13 +0530",
       "minecraft:phantom": "2021-02-27 18:07:32 +0530",
+      "minecraft:witch": "2021-03-02 14:37:13 +0530",
       "minecraft:wither_skeleton": "2021-02-28 22:53:14 +0530",
       "minecraft:husk": "2021-02-15 21:46:48 +0530",
       "minecraft:silverfish": "2021-02-15 23:04:39 +0530",
       "minecraft:enderman": "2021-02-28 23:12:33 +0530",
+      "minecraft:vex": "2021-03-02 14:37:12 +0530",
       "minecraft:zombie": "2021-02-15 22:33:34 +0530",
       "minecraft:drowned": "2021-02-15 21:46:26 +0530"
     },
@@ -657,6 +661,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2021-02-15 21:44:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-03-02 14:37:13 +0530"
     },
     "done": true
   },
@@ -1299,6 +1309,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_acacia_planks": "2021-02-15 21:54:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2021-03-02 14:36:59 +0530"
     },
     "done": true
   },

@@ -538,6 +538,7 @@
       "minecraft:pillager": "2021-02-15 22:01:41 +0530",
       "minecraft:blaze": "2021-02-16 13:05:25 +0530",
       "minecraft:skeleton": "2021-02-15 23:58:56 +0530",
+      "minecraft:ravager": "2021-03-02 14:12:59 +0530",
       "minecraft:vindicator": "2021-03-01 14:02:44 +0530",
       "minecraft:magma_cube": "2021-02-17 14:23:57 +0530",
       "minecraft:spider": "2021-02-16 13:46:06 +0530",
@@ -548,6 +549,7 @@
       "minecraft:wither_skeleton": "2021-02-16 13:30:15 +0530",
       "minecraft:husk": "2021-02-15 22:05:40 +0530",
       "minecraft:enderman": "2021-02-16 12:56:35 +0530",
+      "minecraft:vex": "2021-03-02 14:24:57 +0530",
       "minecraft:zombie": "2021-02-15 23:49:55 +0530"
     },
     "done": false
