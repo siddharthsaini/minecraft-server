@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2021-03-03 14:44:05 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-02-17 16:05:48 +0530"
@@ -1683,6 +1689,7 @@
       "rotten_flesh": "2021-02-15 22:05:48 +0530",
       "cooked_rabbit": "2021-02-17 15:06:17 +0530",
       "cooked_chicken": "2021-02-16 13:11:02 +0530",
+      "rabbit_stew": "2021-03-03 14:51:12 +0530",
       "cooked_salmon": "2021-02-17 15:34:11 +0530"
     },
     "done": false
