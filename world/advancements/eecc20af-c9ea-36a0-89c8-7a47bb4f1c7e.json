@@ -913,6 +913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2021-03-03 16:05:18 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-02-15 21:52:43 +0530"
@@ -2092,6 +2098,7 @@
       "cooked_porkchop": "2021-02-15 23:13:21 +0530",
       "cooked_mutton": "2021-02-17 14:20:33 +0530",
       "cooked_beef": "2021-02-16 11:33:17 +0530",
+      "pumpkin_pie": "2021-03-03 15:41:03 +0530",
       "mutton": "2021-02-16 13:55:31 +0530",
       "bread": "2021-02-16 14:18:23 +0530",
       "golden_apple": "2021-02-28 20:21:05 +0530",
@@ -2572,6 +2579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2021-03-03 16:05:18 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2021-02-15 23:04:01 +0530"
@@ -2632,6 +2645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2021-03-03 16:05:18 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-02-15 23:16:57 +0530"
@@ -2689,6 +2708,12 @@
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_green_wool": "2021-02-18 00:00:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2021-03-03 16:27:45 +0530"
     },
     "done": true
   },
@@ -3199,6 +3224,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-02-15 23:17:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-03-03 16:43:35 +0530"
     },
     "done": true
   },
