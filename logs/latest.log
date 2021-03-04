@@ -1,53 +1,334 @@
-[12:53:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:53:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:53:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:53:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:53:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:53:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:53:12] [main/INFO]: Reloading ResourceManager: Default
-[12:53:13] [Worker-Main-13/INFO]: Loaded 7 recipes
-[12:53:14] [Worker-Main-13/INFO]: Loaded 927 advancements
-[12:53:15] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[12:53:15] [Server thread/INFO]: Loading properties
-[12:53:15] [Server thread/INFO]: Default game type: SURVIVAL
-[12:53:15] [Server thread/INFO]: Generating keypair
-[12:53:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:53:16] [Server thread/INFO]: Using epoll channel type
-[12:53:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:53:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:53:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:53:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:53:16] [Server thread/INFO]: Preparing level "world"
-[12:53:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:53:18] [Server thread/INFO]: Preparing spawn area: 0%
-[12:53:18] [Server thread/INFO]: Preparing spawn area: 0%
-[12:53:18] [Server thread/INFO]: Preparing spawn area: 0%
-[12:53:18] [Server thread/INFO]: Preparing spawn area: 0%
-[12:53:18] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[12:53:19] [Server thread/INFO]: Preparing spawn area: 42%
-[12:53:19] [Server thread/INFO]: Time elapsed: 2768 ms
-[12:53:19] [Server thread/INFO]: Done (2.956s)! For help, type "help"
-[12:53:25] [Server thread/INFO]: sidmeister[/127.0.0.1:45666] logged in with entity id 141 at (-1225.5351310758597, 58.0, -71.195107406369)
-[12:53:25] [Server thread/INFO]: sidmeister joined the game
-[12:54:19] [Server thread/INFO]: [sidmeister: Set own game mode to Creative Mode]
-[12:54:44] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[12:54:44] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[12:58:38] [Server thread/INFO]: [sidmeister: Gave 1 [Structure Block] to sidmeister]
-[13:00:01] [Server thread/WARN]: Skipping Entity with id 
-[13:21:59] [Server thread/INFO]: [sidmeister: Set own game mode to Survival Mode]
-[13:37:02] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[13:37:02] [Server thread/INFO]: sidmeister left the game
-[13:38:50] [Server thread/INFO]: A player is required to run this command here
-[13:38:55] [Server thread/INFO]: Stopping the server
-[13:38:55] [Server thread/INFO]: Stopping server
-[13:38:55] [Server thread/INFO]: Saving players
-[13:38:55] [Server thread/INFO]: Saving worlds
-[13:38:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:38:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:38:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:00:42] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:00:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:00:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:00:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:00:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:00:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:00:43] [main/INFO]: Reloading ResourceManager: Default
+[15:00:43] [Worker-Main-13/INFO]: Loaded 7 recipes
+[15:00:44] [Worker-Main-13/INFO]: Loaded 927 advancements
+[15:00:46] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[15:00:46] [Server thread/INFO]: Loading properties
+[15:00:46] [Server thread/INFO]: Default game type: SURVIVAL
+[15:00:46] [Server thread/INFO]: Generating keypair
+[15:00:46] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_51]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_51]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_51]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_51]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_51]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_51]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_51]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_51]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_51]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_51]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_51]
+	at zg$1.run(SourceFile:95) [server.jar:?]
+[15:00:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:00:46] [Server thread/INFO]: Using default channel type
+[15:00:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:00:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:00:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:00:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:00:48] [Server thread/INFO]: Preparing level "world"
+[15:00:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:00:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:00:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:00:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:00:49] [Server thread/INFO]: Preparing spawn area: 48%
+[15:00:51] [Server thread/INFO]: Time elapsed: 2940 ms
+[15:00:51] [Server thread/INFO]: Done (3.055s)! For help, type "help"
+[15:01:28] [Server thread/INFO]: rachit4102k[/0:0:0:0:0:0:0:1:60045] logged in with entity id 141 at (-47.53015916178258, 64.0, 1235.3098082156969)
+[15:01:28] [Server thread/INFO]: rachit4102k joined the game
+[15:02:27] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:60046] logged in with entity id 684 at (-99.7287664564911, 70.0, 1228.184099108774)
+[15:02:27] [Server thread/INFO]: shobhit_joe joined the game
+[15:05:19] [Server thread/INFO]: ThunderclawOnYT[/0:0:0:0:0:0:0:1:60049] logged in with entity id 1246 at (-89.5, 71.0, -2.5)
+[15:05:19] [Server thread/INFO]: ThunderclawOnYT joined the game
+[15:05:44] [Server thread/INFO]: ThunderclawOnYT lost connection: Disconnected
+[15:05:44] [Server thread/INFO]: ThunderclawOnYT left the game
+[15:07:53] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[15:07:53] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[15:10:14] [Server thread/INFO]: <rachit4102k> SLEP
+[15:10:30] [Server thread/INFO]: <shobhit_joe> mai end mei hun
+[15:10:35] [Server thread/INFO]: sidmeister[/0:0:0:0:0:0:0:1:60053] logged in with entity id 2880 at (-124.17153352429756, 63.0, 1185.6363660485338)
+[15:10:35] [Server thread/INFO]: sidmeister joined the game
+[15:10:36] [Server thread/INFO]: <rachit4102k> accha
+[15:10:42] [Server thread/INFO]: <sidmeister> nice
+[15:12:12] [Server thread/INFO]: <shobhit_joe> sid upar endermite dala tha tune ?
+[15:12:19] [Server thread/INFO]: <sidmeister> haan
+[15:12:22] [Server thread/INFO]: <sidmeister> composter mei
+[15:12:40] [Server thread/INFO]: <shobhit_joe> aur yeh stone nahi use krna tha
+[15:12:45] [Server thread/INFO]: <shobhit_joe> leaves use krne the
+[15:12:47] [Server thread/INFO]: <sidmeister> :(
+[15:13:08] [Server thread/INFO]: <sidmeister> villagers marr gaye bhai mere
+[15:13:14] [Server thread/INFO]: <sidmeister> pata nahi kaise
+[15:13:54] [Server thread/INFO]: shobhit_joe fell out of the world
+[15:13:58] [Server thread/INFO]: <rachit4102k> F
+[15:14:09] [Server thread/INFO]: <shobhit_joe> my pain is immense
+[15:14:10] [Server thread/INFO]: <sidmeister> oops
+[15:14:15] [Server thread/INFO]: <rachit4102k> astronaut banega saala
+[15:14:26] [Server thread/INFO]: <shobhit_joe> isliye stone nahi lagana tha :,)
+[15:14:39] [Server thread/INFO]: <shobhit_joe> usse bridge mei hi spawn ho jaate hai
+[15:14:51] [Server thread/INFO]: <sidmeister> oh
+[15:14:55] [Server thread/INFO]: <sidmeister> i c
+[15:15:03] [Server thread/INFO]: <sidmeister> mai bhi gira tha waise
+[15:15:07] [Server thread/INFO]: <sidmeister> but without saman
+[15:15:26] [Server thread/INFO]: <shobhit_joe> no worries
+[15:15:33] [Server thread/INFO]: <shobhit_joe> sab wapis aa jayega
+[15:15:46] [Server thread/INFO]: <shobhit_joe> kabhi na kabhi :,)
+[15:15:50] [Server thread/INFO]: <sidmeister> rachit bro do villager schahiye honge
+[15:15:59] [Server thread/INFO]: <rachit4102k> le liyo
+[15:16:32] [Server thread/INFO]: <shobhit_joe> koi iron farm theek karo :,)
+[15:16:39] [Server thread/INFO]: <sidmeister> alas ari hai
+[15:16:46] [Server thread/INFO]: <rachit4102k> mai sugarcane bana raha hu
+[15:17:08] [Server thread/INFO]: <rachit4102k> jisne kharab kiya wahi karega theek
+[15:17:16] [Server thread/INFO]: <sidmeister> pillager?
+[15:17:31] [Server thread/INFO]: <rachit4102k> pillager kiski wajeh se aae
+[15:17:36] [Server thread/INFO]: <sidmeister> oof
+[15:21:26] [Server thread/INFO]: <rachit4102k> sleep
+[15:21:33] [Server thread/INFO]: <rachit4102k> jo overworld mei hai
+[15:21:41] [Server thread/INFO]: <sidmeister> on bed
+[15:21:44] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[15:21:44] [Server thread/INFO]: shobhit_joe left the game
+[15:21:49] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[15:21:49] [Server thread/INFO]: sidmeister left the game
+[15:29:39] [Server thread/INFO]: ThunderclawOnYT[/0:0:0:0:0:0:0:1:60071] logged in with entity id 8352 at (-88.30000001192093, 71.0, -0.9748465495096181)
+[15:29:39] [Server thread/INFO]: ThunderclawOnYT joined the game
+[15:29:44] [Server thread/INFO]: ThunderclawOnYT lost connection: Disconnected
+[15:29:44] [Server thread/INFO]: ThunderclawOnYT left the game
+[15:33:21] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:60074] logged in with entity id 8831 at (-151.57665819233827, 63.0, 1170.6049644386512)
+[15:33:21] [Server thread/INFO]: shobhit_joe joined the game
+[15:33:33] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[15:33:33] [Server thread/INFO]: shobhit_joe left the game
+[15:34:02] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:60079] logged in with entity id 8922 at (-149.06603000598764, 63.0, 1174.7215060925234)
+[15:34:02] [Server thread/INFO]: shobhit_joe joined the game
+[15:34:25] [Server thread/INFO]: <shobhit_joe> arre yeh villager boat pe kaise baith gaya
+[15:34:34] [Server thread/INFO]: <rachit4102k> KAHA PE
+[15:34:44] [Server thread/INFO]: <shobhit_joe> iron farm wala
+[15:34:54] [Server thread/INFO]: <rachit4102k> pata nahi bhai
+[15:35:04] [Server thread/INFO]: <rachit4102k> siddi kar raha hoga kuch
+[15:36:21] [Server thread/INFO]: <rachit4102k> iron farm sahi karega?
+[15:36:34] [Server thread/INFO]: <shobhit_joe> haan
+[15:36:48] [Server thread/INFO]: <rachit4102k> taaja
+[15:36:53] [Server thread/INFO]: <rachit4102k> aaja*
+[15:38:06] [Server thread/INFO]: <rachit4102k> kitne villager chahiye
+[15:38:10] [Server thread/INFO]: <rachit4102k> 3?
+[15:38:15] [Server thread/INFO]: <shobhit_joe> haan
+[15:38:28] [Server thread/INFO]: <shobhit_joe> waise ek wahan hai pehle se
+[15:38:33] [Server thread/INFO]: <shobhit_joe> do nikaal de
+[15:38:39] [Server thread/INFO]: <rachit4102k> 2 le chalte hai fir
+[15:38:46] [Server thread/INFO]: <rachit4102k> siddi ko mai de duunga 2
+[15:39:17] [Server thread/INFO]: <shobhit_joe> yaar pehle zombie chadana hai
+[15:39:29] [Server thread/INFO]: <shobhit_joe> villagers baad mei daal denge
+[15:39:32] [Server thread/INFO]: <rachit4102k> villager ke baad daal denge
+[15:39:43] [Server thread/INFO]: <rachit4102k> aur tracks biha tu
+[15:39:55] [Server thread/INFO]: <rachit4102k> mai nikal ta hu inhe
+[15:41:10] [Server thread/INFO]: <rachit4102k> minecart hai 1
+[15:41:25] [Server thread/INFO]: <shobhit_joe> haan
+[15:41:29] [Server thread/INFO]: <rachit4102k> de
+[15:44:17] [Server thread/INFO]: <rachit4102k> so jaa fata fat
+[15:44:24] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[15:44:24] [Server thread/INFO]: shobhit_joe left the game
+[15:48:32] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:60101] logged in with entity id 11155 at (-98.51227438071246, 64.0, 1195.512499988079)
+[15:48:32] [Server thread/INFO]: shobhit_joe joined the game
+[15:48:51] [Server thread/INFO]: <shobhit_joe> mai aya 5 minute mei
+[15:49:03] [Server thread/INFO]: <shobhit_joe> attendance dena hai
+[15:49:06] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[15:49:06] [Server thread/INFO]: shobhit_joe left the game
+[15:49:08] [Server thread/INFO]: <rachit4102k> k
+[15:53:01] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:60108] logged in with entity id 11775 at (-98.51227438071246, 64.0, 1195.512499988079)
+[15:53:01] [Server thread/INFO]: shobhit_joe joined the game
+[15:55:16] [Server thread/INFO]: <rachit4102k> zomby pakadte hai
+[15:55:25] [Server thread/INFO]: <rachit4102k> villager daal diye maine
+[15:56:34] [Server thread/INFO]: <shobhit_joe> chalo
+[15:56:52] [Server thread/INFO]: Villager bfj['Villager'/372, l='ServerLevel[world]', x=-158.77, y=62.90, z=1173.87] died, message: 'Villager was slain by Husk'
+[15:59:19] [Server thread/INFO]: shobhit_joe has made the advancement [Ol' Betsy]
+[15:59:49] [Server thread/INFO]: <rachit4102k> bahar kaise aa gaya villager bc
+[16:00:00] [Server thread/INFO]: <rachit4102k> kya lund farm banaya hai bc
+[16:00:09] [Server thread/INFO]: <rachit4102k> zombie kaha daalna hai?
+[16:00:09] [Server thread/INFO]: <shobhit_joe> farm theek hai
+[16:01:22] [Server thread/INFO]: <rachit4102k> kaha daal na zombie??
+[16:01:28] [Server thread/INFO]: <shobhit_joe> idhar hi
+[16:01:47] [Server thread/INFO]: <shobhit_joe> boat se krta hun ek baar
+[16:01:51] [Server thread/INFO]: <rachit4102k> composter mei nahi daale they?
+[16:02:04] [Server thread/INFO]: <shobhit_joe> cart mei
+[16:02:39] [Server thread/INFO]: <rachit4102k> idhar aa bc
+[16:03:20] [Server thread/INFO]: <rachit4102k> mobs maar de bhai
+[16:03:33] [Server thread/INFO]: <rachit4102k> bhag raha hai chutiyo ki tarah
+[16:03:48] [Server thread/INFO]: <shobhit_joe> kaun
+[16:04:25] [Server thread/INFO]: <shobhit_joe> weapon de
+[16:05:45] [Server thread/INFO]: <shobhit_joe> husk hai kuch nahi hoga
+[16:05:45] [Server thread/INFO]: <rachit4102k> helemt de
+[16:06:01] [Server thread/INFO]: <rachit4102k> khana hai?
+[16:08:55] [Server thread/INFO]: <rachit4102k> jaise hi yaha aae neeche ke stairs tod diyo
+[16:08:56] [Server thread/INFO]: <shobhit_joe> maaru dhakka ?
+[16:09:03] [Server thread/INFO]: <rachit4102k> golem maar dega nahi toh
+[16:09:11] [Server thread/INFO]: <rachit4102k> ruk
+[16:09:19] [Server thread/INFO]: <rachit4102k> jal jaaega ye
+[16:09:26] [Server thread/INFO]: <shobhit_joe> shovel banane de
+[16:09:43] [Server thread/INFO]: <shobhit_joe> arre husk nahi jalta bhai shayad
+[16:09:55] [Server thread/INFO]: <rachit4102k> aacha aisa hai kya
+[16:10:49] [Server thread/INFO]: <rachit4102k> mc creeper
+[16:10:57] [Server thread/INFO]: <shobhit_joe> well that was unfortunate
+[16:11:49] [Server thread/INFO]: <rachit4102k> raat mei firse pakadna padega
+[16:11:59] [Server thread/INFO]: <shobhit_joe> yup
+[16:12:07] [Server thread/INFO]: <rachit4102k> minecart de
+[16:12:51] [Server thread/INFO]: <rachit4102k> nametag nahi hai kya?
+[16:13:06] [Server thread/INFO]: <shobhit_joe> nahi hai
+[16:15:18] [Server thread/INFO]: <shobhit_joe> shaam ho gayi
+[16:15:24] [Server thread/INFO]: <rachit4102k> chal
+[16:16:26] [Server thread/INFO]: <shobhit_joe> cart mei kaise daalega
+[16:16:34] [Server thread/INFO]: <rachit4102k> daal duunga
+[16:16:49] [Server thread/INFO]: <rachit4102k> dhund koi aas paas
+[16:19:53] [Server thread/INFO]: <rachit4102k> iske haath mei sword pehle se thi
+[16:20:16] [Server thread/INFO]: <rachit4102k> sid ke ghar mei dekh nametag hai kya
+[16:20:26] [Server thread/INFO]: <shobhit_joe> dekh liya nahi hai
+[16:21:00] [Server thread/INFO]: <rachit4102k> despawn ho jaaega
+[16:21:12] [Server thread/INFO]: <shobhit_joe> kya kare
+[16:21:22] [Server thread/INFO]: <shobhit_joe> khada rehna padega kisi ko yahan
+[16:21:25] [Server thread/INFO]: <rachit4102k> kuch pakadwana padega
+[16:22:27] [Server thread/INFO]: <shobhit_joe> nametag kitne hai dekh ke aa
+[16:22:53] [Server thread/INFO]: <rachit4102k> kaha pe dekh aau
+[16:23:05] [Server thread/INFO]: <shobhit_joe> trading hall mei koi de raha hoga ig
+[16:23:12] [Server thread/INFO]: <rachit4102k> dekhta hu
+[16:23:56] [Server thread/INFO]: <rachit4102k> so rahe hai abhi
+[16:24:04] [Server thread/INFO]: <shobhit_joe> jaga unko
+[16:24:09] [Server thread/INFO]: <shobhit_joe> bol kaam hai
+[16:24:15] [Server thread/INFO]: <rachit4102k> wahi khade reh abhi XD
+[16:24:36] [Server thread/INFO]: <shobhit_joe> T_T
+[16:24:42] [Server thread/INFO]: <rachit4102k> is chutiye ke hall mei creepr hai ek fir bolta hai kaha gaye iske villager
+[16:24:51] [Server thread/INFO]: <shobhit_joe> hahahah
+[16:26:10] [Server thread/INFO]: <rachit4102k> 20 ka hai ek
+[16:26:21] [Server thread/INFO]: <shobhit_joe> jugaad kar
+[16:26:38] [Server thread/INFO]: <rachit4102k> tere paas hai emeralds?
+[16:26:40] [Server thread/INFO]: <shobhit_joe> mere saamne 5 golem gir gaye
+[16:26:44] [Server thread/INFO]: <rachit4102k> mere paas bas 10 hai
+[16:26:53] [Server thread/INFO]: <shobhit_joe> makhan ki tarah chal raha hai farm
+[16:27:00] [Server thread/INFO]: <rachit4102k> mai khada hu tu leke aa
+[16:27:40] [Server thread/INFO]: <rachit4102k> sabse peeche waala librariian deta hai
+[16:28:49] [Server thread/INFO]: <shobhit_joe> iron pik diyo
+[16:28:55] [Server thread/INFO]: <rachit4102k> nahi hai
+[16:29:57] [Server thread/INFO]: <shobhit_joe> tere emerald kahan rakhe hai
+[16:30:04] [Server thread/INFO]: <rachit4102k> end chest mei
+[16:30:11] [Server thread/INFO]: <rachit4102k> tu aa idhar
+[16:30:18] [Server thread/INFO]: <rachit4102k> mai jaata hu
+[16:30:42] [Server thread/INFO]: <rachit4102k> de emerals
+[16:30:55] [Server thread/INFO]: <shobhit_joe> trade kar liyo baaki iron
+[16:34:37] [Server thread/INFO]: <rachit4102k> mission accomplished
+[16:34:49] [Server thread/INFO]: <shobhit_joe> gg
+[16:35:31] [Server thread/INFO]: <shobhit_joe> naam bhi mast rakha hai XD
+[16:35:35] [Server thread/INFO]: <rachit4102k> XD
+[16:37:15] [Server thread/INFO]: <shobhit_joe> sleep
+[16:37:17] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[16:37:17] [Server thread/INFO]: shobhit_joe left the game
+[16:38:11] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:60165] logged in with entity id 18480 at (-98.67126400696985, 64.0, 1193.6634621648795)
+[16:38:11] [Server thread/INFO]: shobhit_joe joined the game
+[16:39:23] [Server thread/INFO]: <shobhit_joe> abbe yeh golem bsdka upar kyun spawn horaha hai
+[16:39:42] [Server thread/INFO]: <rachit4102k> fir maar diya
+[16:40:06] [Server thread/INFO]: <rachit4102k> slabs laga upar
+[16:40:17] [Server thread/INFO]: <shobhit_joe> axe de
+[16:41:14] [Server thread/INFO]: <shobhit_joe> ab theek hai
+[16:41:19] [Server thread/INFO]: <rachit4102k> haan
+[16:41:25] [Server thread/INFO]: <rachit4102k> bottom half lagai hai na?
+[16:41:39] [Server thread/INFO]: <shobhit_joe> kya bottom half
+[16:41:47] [Server thread/INFO]: <rachit4102k> slabs
+[16:41:54] [Server thread/INFO]: <shobhit_joe> nahi zaroorat
+[16:42:06] [Server thread/INFO]: <rachit4102k> top half pe ho jaatein hai spwan i guess
+[16:42:23] [Server thread/INFO]: <shobhit_joe> arre slabs pe spawn nahi hua tha woh
+[16:42:30] [Server thread/INFO]: <shobhit_joe> wood block pe hua tha
+[16:42:41] [Server thread/INFO]: <rachit4102k> accha accha
+[16:42:47] [Server thread/INFO]: <shobhit_joe> wood block kaat diya ab theek ho gaya
+[16:43:07] [Server thread/INFO]: <shobhit_joe> bas ab pillager backchodi na maare phirse
+[16:45:03] [Server thread/INFO]: <shobhit_joe> yeh hall ke andar lighting lagani padegi achhe se
+[16:45:10] [Server thread/INFO]: <rachit4102k> haan
+[16:49:24] [Server thread/INFO]: <shobhit_joe> slep
+[16:53:41] [Server thread/INFO]: <shobhit_joe> ek trader slime ball de raha hai chaiye toh lele
+[16:53:49] [Server thread/INFO]: <rachit4102k> kitne ki?
+[16:53:56] [Server thread/INFO]: <shobhit_joe> 6 ig
+[16:54:20] [Server thread/INFO]: <rachit4102k> aaya
+[16:54:57] [Server thread/INFO]: <rachit4102k> kaha hai?
+[16:55:05] [Server thread/INFO]: <shobhit_joe> mushrooms ke paas
+[16:56:45] [Server thread/INFO]: <shobhit_joe> le liye ?
+[16:57:01] [Server thread/INFO]: <rachit4102k> 4 ke hi paise they bas
+[16:57:30] [Server thread/INFO]: <shobhit_joe> aur chahiye toh mai khareed skta hun
+[16:57:41] [Server thread/INFO]: <rachit4102k> khareed de
+[16:57:46] [Server thread/INFO]: <rachit4102k> kaam ki cheez hai
+[16:58:01] [Server thread/INFO]: <rachit4102k> mujhe infinity rail ka glitch pata hai
+[16:58:09] [Server thread/INFO]: <rachit4102k> 2 slime blocks uske liye
+[16:58:21] [Server thread/INFO]: <shobhit_joe> haan dikhaya tha tune
+[16:58:24] [Server thread/INFO]: <rachit4102k> koi bhi rail infinity
+[16:58:34] [Server thread/INFO]: <rachit4102k> powered rail bhi
+[16:58:45] [Server thread/INFO]: <shobhit_joe> train system bana denge yahan bc XD
+[16:59:00] [Server thread/INFO]: <rachit4102k> 5 slime aur chahiye bas
+[16:59:09] [Server thread/INFO]: <shobhit_joe> saale ne dena band kar diya
+[16:59:09] [Server thread/INFO]: <rachit4102k> ab 4
+[16:59:43] [Server thread/INFO]: <rachit4102k> haan yaar
+[17:00:04] [Server thread/INFO]: <rachit4102k> firse aa jaae to paisa hi paisa
+[17:01:08] [Server thread/INFO]: <shobhit_joe> slep
+[17:01:09] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[17:01:09] [Server thread/INFO]: shobhit_joe left the game
+[17:02:09] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:60213] logged in with entity id 23030 at (-99.3000000119209, 64.0, 1230.300000011921)
+[17:02:09] [Server thread/INFO]: shobhit_joe joined the game
+[17:02:20] [Server thread/INFO]: <shobhit_joe> aaja pahadi khatam krte hai
+[17:02:23] [Server thread/INFO]: <rachit4102k> tere paas jitne tracks hai sab dede
+[17:02:58] [Server thread/INFO]: <shobhit_joe> i have no tracks
+[17:09:08] [Server thread/INFO]: <shobhit_joe> yeh kya bana raha hai
+[17:09:17] [Server thread/INFO]: <rachit4102k> sugercane farm
+[17:09:28] [Server thread/INFO]: <shobhit_joe> nice
+[17:09:49] [Server thread/INFO]: <rachit4102k> powered rails chahiye yaar
+[17:09:54] [Server thread/INFO]: <rachit4102k> kaha se laau
+[17:10:06] [Server thread/INFO]: <shobhit_joe> banale
+[17:10:12] [Server thread/INFO]: <rachit4102k> gold nahi hai
+[17:10:16] [Server thread/INFO]: <rachit4102k> 7 hai bas
+[17:12:35] [Server thread/INFO]: <shobhit_joe> slep
+[17:12:37] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[17:12:37] [Server thread/INFO]: shobhit_joe left the game
+[17:14:42] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:60222] logged in with entity id 25482 at (-101.33268455993175, 64.0, 1228.5828219338046)
+[17:14:42] [Server thread/INFO]: shobhit_joe joined the game
+[17:16:34] [Server thread/INFO]: <rachit4102k> 27 powered rail aur chahiye
+[17:19:10] [Server thread/INFO]: <shobhit_joe> lag ?
+[17:19:27] [Server thread/INFO]: <rachit4102k> HAAN HUA THA TODHA
+[17:23:11] [Server thread/INFO]: <rachit4102k> DIRST DIYO
+[17:23:47] [Server thread/INFO]: <shobhit_joe> slep
+[17:23:49] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[17:23:49] [Server thread/INFO]: shobhit_joe left the game
+[17:25:48] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:60253] logged in with entity id 27914 at (-73.79305770027906, 63.0, 1184.542679262529)
+[17:25:48] [Server thread/INFO]: shobhit_joe joined the game
+[17:26:50] [Server thread/INFO]: <rachit4102k> gold de
+[17:26:55] [Server thread/INFO]: <rachit4102k> jitna bhi hai
+[17:27:02] [Server thread/INFO]: <rachit4102k> 21 rail aur chahiye
+[17:27:14] [Server thread/INFO]: <shobhit_joe> i dont have :,)
+[17:27:15] [Server thread/INFO]: <rachit4102k> 24 gold chahiye
+[17:27:27] [Server thread/INFO]: <shobhit_joe> lol ek nahi hai yahan XD
+[17:34:27] [Server thread/INFO]: <rachit4102k> 3 SLIME CHAHIYE BAS SHOBHIT
+[17:34:36] [Server thread/INFO]: <rachit4102k> SWAMP JANA PADEGA
+[17:34:44] [Server thread/INFO]: <shobhit_joe> all the best
+[17:35:06] [Server thread/INFO]: <rachit4102k> SLEP
+[17:35:11] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[17:35:11] [Server thread/INFO]: shobhit_joe left the game
+[17:36:33] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:60260] logged in with entity id 29585 at (-99.5167745273078, 65.0, 1244.379335912262)
+[17:36:33] [Server thread/INFO]: shobhit_joe joined the game
+[17:43:12] [Server thread/INFO]: <shobhit_joe> i need two villagers
+[17:43:33] [Server thread/INFO]: <rachit4102k> baad mei karliyo band kar raha hu server
+[17:43:41] [Server thread/INFO]: <shobhit_joe> chal theek hai
+[17:43:42] [Server thread/INFO]: <rachit4102k> guests aane waale hai ghar pe
+[17:43:48] [Server thread/INFO]: <shobhit_joe> ok ok bye gg
+[17:43:50] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[17:43:50] [Server thread/INFO]: shobhit_joe left the game
+[17:43:53] [Server thread/INFO]: <rachit4102k> bye
+[17:43:54] [Server thread/INFO]: rachit4102k lost connection: Disconnected
+[17:43:54] [Server thread/INFO]: rachit4102k left the game
+[17:44:09] [Server thread/INFO]: Stopping the server
+[17:44:09] [Server thread/INFO]: Stopping server
+[17:44:09] [Server thread/INFO]: Saving players
+[17:44:09] [Server thread/INFO]: Saving worlds
+[17:44:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:44:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:44:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
