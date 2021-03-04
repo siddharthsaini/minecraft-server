@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-03-04 13:35:34 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2021-02-16 13:55:04 +0530"
@@ -697,6 +703,7 @@
       "minecraft:piglin": "2021-03-02 16:07:37 +0530",
       "minecraft:silverfish": "2021-02-28 17:15:53 +0530",
       "minecraft:enderman": "2021-02-28 23:50:14 +0530",
+      "minecraft:endermite": "2021-03-04 13:11:21 +0530",
       "minecraft:vex": "2021-03-02 14:15:39 +0530",
       "minecraft:zombie": "2021-02-15 21:46:00 +0530",
       "minecraft:drowned": "2021-02-16 11:37:17 +0530"
