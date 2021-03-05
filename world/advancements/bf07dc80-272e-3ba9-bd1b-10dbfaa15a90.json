@@ -772,6 +772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2021-03-05 23:50:12 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2021-03-01 00:04:55 +0530"
@@ -2732,6 +2738,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2021-02-15 23:02:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2021-03-05 23:50:12 +0530"
     },
     "done": true
   },
