@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2021-03-08 17:12:24 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-18 00:15:28 +0530"
@@ -772,6 +778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-03-08 16:19:38 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting": {
     "criteria": {
       "has_coal_ore": "2021-03-05 23:50:12 +0530"
@@ -877,6 +889,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2021-02-15 23:27:29 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2021-03-08 16:18:47 +0530"
     },
     "done": true
   },
@@ -1408,6 +1426,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2021-03-08 16:18:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2021-02-17 14:51:57 +0530"
@@ -1441,6 +1465,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2021-03-02 15:57:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-03-08 16:19:38 +0530"
     },
     "done": true
   },
@@ -1829,6 +1859,7 @@
       "cooked_porkchop": "2021-02-15 23:05:20 +0530",
       "cooked_mutton": "2021-02-15 22:01:49 +0530",
       "cooked_beef": "2021-02-15 22:16:41 +0530",
+      "baked_potato": "2021-03-08 16:38:47 +0530",
       "pumpkin_pie": "2021-03-03 16:30:48 +0530",
       "mutton": "2021-02-15 21:47:33 +0530",
       "bread": "2021-03-03 17:22:49 +0530",
@@ -1848,6 +1879,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2021-02-17 15:19:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-03-08 16:19:38 +0530"
     },
     "done": true
   },
@@ -2234,6 +2271,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2021-03-01 17:59:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2021-03-08 16:18:47 +0530"
     },
     "done": true
   },
@@ -2825,6 +2868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2021-03-08 16:18:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2021-02-15 21:45:28 +0530"
@@ -2954,6 +3003,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2021-03-02 15:56:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2021-03-08 16:05:14 +0530"
     },
     "done": true
   },
@@ -3118,6 +3173,12 @@
       "has_planks": "2021-02-28 22:44:27 +0530"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/black.png": "2021-03-08 16:42:04 +0530"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
