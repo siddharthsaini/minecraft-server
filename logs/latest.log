@@ -1,80 +1,417 @@
-[18:01:31] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:01:32] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:01:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:01:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:01:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:01:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:01:32] [main/INFO]: Reloading ResourceManager: Default
-[18:01:32] [Worker-Main-10/INFO]: Loaded 7 recipes
-[18:01:33] [Worker-Main-10/INFO]: Loaded 927 advancements
-[18:01:35] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[18:01:35] [Server thread/INFO]: Loading properties
-[18:01:35] [Server thread/INFO]: Default game type: SURVIVAL
-[18:01:35] [Server thread/INFO]: Generating keypair
-[18:01:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:01:35] [Server thread/INFO]: Using epoll channel type
-[18:01:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:01:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:01:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:01:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:01:36] [Server thread/INFO]: Preparing level "world"
-[18:01:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:01:37] [Server thread/INFO]: Preparing spawn area: 0%
-[18:01:37] [Server thread/INFO]: Preparing spawn area: 0%
-[18:01:37] [Server thread/INFO]: Preparing spawn area: 0%
-[18:01:37] [Server thread/INFO]: Preparing spawn area: 0%
-[18:01:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:01:38] [Server thread/INFO]: Preparing spawn area: 65%
-[18:01:38] [Server thread/INFO]: Time elapsed: 2722 ms
-[18:01:38] [Server thread/INFO]: Done (2.827s)! For help, type "help"
-[18:02:03] [Server thread/INFO]: warmachinerox[/127.0.0.1:55580] logged in with entity id 138 at (-32.423409447304934, 72.0, 1180.4443768413907)
-[18:02:03] [Server thread/INFO]: warmachinerox joined the game
-[18:03:35] [Server thread/INFO]: [Server] afk for a few mins
-[18:03:50] [Server thread/INFO]: [Server] goban araha
-[18:03:53] [Server thread/INFO]: warmachinerox lost connection: Disconnected
-[18:03:53] [Server thread/INFO]: warmachinerox left the game
-[18:04:14] [Server thread/INFO]: warmachinerox[/127.0.0.1:55662] logged in with entity id 784 at (-98.58713424509544, 73.91999998688698, 1161.9513875647583)
-[18:04:14] [Server thread/INFO]: warmachinerox joined the game
-[18:05:06] [Server thread/INFO]: sidmeister[/127.0.0.1:55712] logged in with entity id 1268 at (-120.22994836013586, 64.0, 1180.0411023786835)
-[18:05:06] [Server thread/INFO]: sidmeister joined the game
-[18:05:21] [Server thread/INFO]: sidmeister lost connection: Timed out
-[18:05:21] [Server thread/INFO]: sidmeister left the game
-[18:05:26] [Server thread/INFO]: sidmeister[/127.0.0.1:55718] logged in with entity id 1314 at (-129.49546300976414, 64.02442408821369, 1178.2488671739916)
-[18:05:26] [Server thread/INFO]: sidmeister joined the game
-[18:05:45] [Server thread/INFO]: warmachinerox was shot by Skeleton
-[18:07:08] [Server thread/INFO]: sidmeister was slain by Enderman
-[18:07:51] [Server thread/INFO]: shobhit_joe[/127.0.0.1:55722] logged in with entity id 1994 at (-97.94548180185639, 85.0, 1198.074999988079)
-[18:07:51] [Server thread/INFO]: shobhit_joe joined the game
-[18:08:06] [Server thread/INFO]: shobhit_joe lost connection: Timed out
-[18:08:06] [Server thread/INFO]: shobhit_joe left the game
-[18:08:14] [Server thread/INFO]: warmachinerox lost connection: Timed out
-[18:08:14] [Server thread/INFO]: warmachinerox left the game
-[18:08:20] [Server thread/INFO]: shobhit_joe[/127.0.0.1:55724] logged in with entity id 2103 at (-97.94548180185639, 85.0, 1198.074999988079)
-[18:08:20] [Server thread/INFO]: shobhit_joe joined the game
-[18:08:22] [Server thread/INFO]: warmachinerox[/127.0.0.1:55726] logged in with entity id 2115 at (-100.61075050428937, 65.0, 1269.7058655103963)
-[18:08:22] [Server thread/INFO]: warmachinerox joined the game
-[18:15:43] [Server thread/WARN]: sidmeister moved wrongly!
-[18:16:59] [Server thread/INFO]: [sidmeister: Set the time to 1000]
-[18:20:43] [Server thread/INFO]: warmachinerox has made the advancement [Acquire Hardware]
-[18:21:59] [Server thread/INFO]: warmachinerox has made the advancement [What a Deal!]
-[18:26:04] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[18:26:04] [Server thread/INFO]: shobhit_joe left the game
-[18:28:00] [Server thread/INFO]: warmachinerox has made the advancement [Cover Me With Diamonds]
-[18:37:18] [Server thread/INFO]: warmachinerox has made the advancement [Enchanter]
-[18:39:09] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[18:39:09] [Server thread/INFO]: sidmeister left the game
-[18:39:14] [Server thread/INFO]: warmachinerox lost connection: Disconnected
-[18:39:14] [Server thread/INFO]: warmachinerox left the game
-[18:39:29] [Server thread/INFO]: Stopping the server
-[18:39:29] [Server thread/INFO]: Stopping server
-[18:39:29] [Server thread/INFO]: Saving players
-[18:39:29] [Server thread/INFO]: Saving worlds
-[18:39:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:39:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:39:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:39:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:39:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:39:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:39:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:39:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:39:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:10:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:10:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:10:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:10:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:10:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:10:53] [main/INFO]: Reloading ResourceManager: Default
+[16:10:54] [Worker-Main-13/INFO]: Loaded 7 recipes
+[16:10:55] [Worker-Main-13/INFO]: Loaded 927 advancements
+[16:10:56] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[16:10:56] [Server thread/INFO]: Loading properties
+[16:10:56] [Server thread/INFO]: Default game type: SURVIVAL
+[16:10:56] [Server thread/INFO]: Generating keypair
+[16:10:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:10:57] [Server thread/INFO]: Using epoll channel type
+[16:10:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:10:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:10:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:10:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:10:57] [Server thread/INFO]: Preparing level "world"
+[16:10:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:10:59] [Server thread/INFO]: Preparing spawn area: 0%
+[16:10:59] [Server thread/INFO]: Preparing spawn area: 0%
+[16:10:59] [Server thread/INFO]: Preparing spawn area: 0%
+[16:10:59] [Server thread/INFO]: Preparing spawn area: 0%
+[16:10:59] [Server thread/INFO]: Preparing spawn area: 0%
+[16:11:00] [Server thread/INFO]: Preparing spawn area: 4%
+[16:11:00] [Server thread/INFO]: Time elapsed: 3034 ms
+[16:11:00] [Server thread/INFO]: Done (3.183s)! For help, type "help"
+[16:12:41] [Server thread/INFO]: rachit4102k[/127.0.0.1:48330] logged in with entity id 135 at (-28.584555297387524, 63.0, 1220.1127141787665)
+[16:12:41] [Server thread/INFO]: rachit4102k joined the game
+[16:15:00] [Server thread/INFO]: shobhit_joe[/127.0.0.1:48416] logged in with entity id 877 at (-96.61898415072886, 70.0, 1196.699999988079)
+[16:15:00] [Server thread/INFO]: shobhit_joe joined the game
+[16:17:14] [Server thread/INFO]: warmachinerox[/127.0.0.1:48638] logged in with entity id 1280 at (-103.1640753922076, 73.0, 1149.1107482444036)
+[16:17:14] [Server thread/INFO]: warmachinerox joined the game
+[16:17:22] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[16:17:22] [Server thread/INFO]: shobhit_joe left the game
+[16:17:27] [Server thread/INFO]: warmachinerox lost connection: Disconnected
+[16:17:27] [Server thread/INFO]: warmachinerox left the game
+[16:17:29] [Server thread/INFO]: warmachinerox[/127.0.0.1:48670] logged in with entity id 1372 at (-106.98106804384938, 73.0, 1150.9469761634416)
+[16:17:29] [Server thread/INFO]: warmachinerox joined the game
+[16:17:35] [Server thread/INFO]: shobhit_joe[/127.0.0.1:48692] logged in with entity id 1410 at (-40.393460097174035, 66.0, 1240.0684862129635)
+[16:17:35] [Server thread/INFO]: shobhit_joe joined the game
+[16:19:39] [Server thread/INFO]: [Server] sai chutiya
+[16:19:49] [Server thread/INFO]: [Server] :')
+[16:20:07] [Server thread/INFO]: [Server] sai, do u want to play a game?
+[16:21:52] [Server thread/INFO]: <warmachinerox> yes ()_()
+[16:25:09] [Server thread/INFO]: Incorrect argument for command
+[16:25:09] [Server thread/INFO]: /execute @warmachineroxx summon spider ~ ~ ~ {Passengers:[{id:"minecraft:skeleton",HandItems:[{id:"minecraft:bow",Count:1b}]}]}<--[HERE]
+[16:25:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:25:17] [Server thread/INFO]: [A[D<--[HERE]
+[16:25:23] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[16:25:23] [Server thread/INFO]: ...nt:1b}]}]}[D<--[HERE]
+[16:25:36] [Server thread/INFO]: Unknown selector type '@w'
+[16:25:36] [Server thread/INFO]: ...ecute at @warmachineroxx summon spider ~ ~ ~ {Passengers:[{id:"minecraft:skeleton",HandItems:[{id:"minecraft:bow",Count:1b}]}]}<--[HERE]
+[16:26:54] [Server thread/INFO]: warmachinerox starved to death
+[16:28:29] [Server thread/INFO]: <warmachinerox> sleep bro
+[16:35:57] [Server thread/INFO]: <warmachinerox> OHHMIGOD
+[16:36:12] [Server thread/INFO]: <warmachinerox> yeah baby
+[16:36:17] [Server thread/WARN]: warmachinerox moved wrongly!
+[16:36:18] [Server thread/WARN]: warmachinerox moved wrongly!
+[16:36:21] [Server thread/WARN]: warmachinerox moved wrongly!
+[16:36:24] [Server thread/WARN]: warmachinerox moved wrongly!
+[16:36:25] [Server thread/WARN]: warmachinerox moved wrongly!
+[16:36:57] [Server thread/INFO]: <warmachinerox> moneyshot
+[16:37:18] [Server thread/WARN]: shobhit_joe moved wrongly!
+[16:39:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:39:21] [Server thread/INFO]: l<--[HERE]
+[16:39:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:39:26] [Server thread/INFO]: ;<--[HERE]
+[16:39:35] [Server thread/INFO]: Unknown selector type '@w'
+[16:39:35] [Server thread/INFO]: ...ecute at @warmachineroxx run summon minecraft:spider ^ ^ ^2<--[HERE]
+[16:39:56] [Server thread/INFO]: Summoned new Spider
+[16:40:13] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[16:40:13] [Server thread/INFO]: shobhit_joe left the game
+[16:40:37] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[16:40:37] [Server thread/INFO]: ...t:skeleton^ ^ ^2<--[HERE]
+[16:40:49] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[16:40:49] [Server thread/INFO]: ...t:skeleton^ ^ ^2<--[HERE]
+[16:40:52] [Server thread/INFO]: shobhit_joe[/127.0.0.1:49132] logged in with entity id 6437 at (-66.89546444155725, 63.0, 1163.412668379438)
+[16:40:52] [Server thread/INFO]: shobhit_joe joined the game
+[16:41:16] [Server thread/INFO]: Summoned new Skeleton
+[16:41:24] [Server thread/INFO]: Summoned new Skeleton
+[16:41:25] [Server thread/INFO]: Summoned new Skeleton
+[16:41:33] [Server thread/INFO]: [Server] ;)
+[16:42:15] [Server thread/INFO]: Summoned new Husk
+[16:42:17] [Server thread/INFO]: Summoned new Husk
+[16:44:37] [Server thread/INFO]: Set the time to 13000
+[16:44:44] [Server thread/INFO]: Set the time to 1000
+[16:45:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:45:08] [Server thread/INFO]: /set weather storm<--[HERE]
+[16:45:14] [Server thread/INFO]: Incorrect argument for command
+[16:45:14] [Server thread/INFO]: /weather set storm<--[HERE]
+[16:45:20] [Server thread/INFO]: Incorrect argument for command
+[16:45:20] [Server thread/INFO]: /weather set rain<--[HERE]
+[16:45:23] [Server thread/INFO]: Expected float
+[16:45:23] [Server thread/INFO]: /time set rain<--[HERE]
+[16:45:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:45:37] [Server thread/INFO]: /set rain<--[HERE]
+[16:45:44] [Server thread/INFO]: Incorrect argument for command
+[16:45:44] [Server thread/INFO]: /weather set thunder<--[HERE]
+[16:46:01] [Server thread/INFO]: Set the weather to rain & thunder
+[16:47:05] [Server thread/INFO]: Blind_Crossed[/127.0.0.1:49264] logged in with entity id 7468 at (-95.5, 71.0, 3.5)
+[16:47:05] [Server thread/INFO]: Blind_Crossed joined the game
+[16:47:09] [Server thread/INFO]: Blind_Crossed lost connection: Disconnected
+[16:47:09] [Server thread/INFO]: Blind_Crossed left the game
+[16:47:26] [Server thread/INFO]: [Server] no bro
+[16:47:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:47:31] [Server thread/INFO]: /set time day<--[HERE]
+[16:47:36] [Server thread/INFO]: Set the time to 1000
+[16:47:50] [Server thread/INFO]: The difficulty did not change; it is already set to hard
+[16:48:58] [Server thread/INFO]: [Server] kuch nahi kiya
+[16:50:51] [Server thread/INFO]: [Server] architect
+[16:51:02] [Server thread/INFO]: [Server] rukja
+[16:51:09] [Server thread/INFO]: [Server] 2 Qs bache hain
+[16:51:25] [Server thread/INFO]: <warmachinerox> haan toh jaake answer kar na'
+[16:58:16] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[16:58:16] [Server thread/INFO]: shobhit_joe left the game
+[16:58:19] [Server thread/INFO]: warmachinerox lost connection: Disconnected
+[16:58:19] [Server thread/INFO]: warmachinerox left the game
+[16:58:23] [Server thread/INFO]: warmachinerox[/127.0.0.1:49536] logged in with entity id 9586 at (-58.34495435419754, 63.0, 1229.3718135289876)
+[16:58:23] [Server thread/INFO]: warmachinerox joined the game
+[16:58:36] [Server thread/INFO]: shobhit_joe[/127.0.0.1:49552] logged in with entity id 9619 at (-47.36921355458876, 64.0, 1238.462819466323)
+[16:58:36] [Server thread/INFO]: shobhit_joe joined the game
+[17:01:24] [Server thread/INFO]: <shobhit_joe> sai ??
+[17:01:41] [Server thread/INFO]: <warmachinerox> afk ek min
+[17:01:44] [Server thread/INFO]: [Server] chal raha hai laptop
+[17:09:24] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[17:09:24] [Server thread/INFO]: shobhit_joe left the game
+[17:09:26] [Server thread/INFO]: warmachinerox lost connection: Disconnected
+[17:09:26] [Server thread/INFO]: warmachinerox left the game
+[17:09:47] [Server thread/INFO]: sidmeister[/127.0.0.1:49794] logged in with entity id 12101 at (-99.95130445006451, 73.0, 1149.153054776258)
+[17:09:47] [Server thread/INFO]: sidmeister joined the game
+[17:09:51] [Server thread/INFO]: shobhit_joe[/127.0.0.1:49798] logged in with entity id 12150 at (-200.04723018785708, 67.0, 1123.6912729004082)
+[17:09:51] [Server thread/INFO]: shobhit_joe joined the game
+[17:09:52] [Server thread/INFO]: warmachinerox[/127.0.0.1:49800] logged in with entity id 12174 at (-214.25174062133502, 62.40937150564241, 1119.167889361694)
+[17:09:52] [Server thread/INFO]: warmachinerox joined the game
+[17:12:49] [Server thread/INFO]: gucchu[/127.0.0.1:49804] logged in with entity id 12797 at (-68.80752340139789, 64.0, 1209.250363824911)
+[17:12:49] [Server thread/INFO]: gucchu joined the game
+[17:12:53] [Server thread/INFO]: <warmachinerox> AAYE
+[17:12:57] [Server thread/INFO]: <sidmeister> aa bette
+[17:13:39] [Server thread/INFO]: <gucchu> yo bitches
+[17:14:05] [Server thread/INFO]: <gucchu> i have forgotten how we used to play though
+[17:16:22] [Server thread/INFO]: <warmachinerox> join discord
+[17:16:48] [Server thread/INFO]: <gucchu> wait
+[17:21:25] [Server thread/INFO]: <rachit4102k> skeep or leave for 30 secs
+[17:21:28] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[17:21:28] [Server thread/INFO]: sidmeister left the game
+[17:21:30] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[17:21:30] [Server thread/INFO]: shobhit_joe left the game
+[17:21:30] [Server thread/INFO]: warmachinerox lost connection: Disconnected
+[17:21:30] [Server thread/INFO]: warmachinerox left the game
+[17:21:39] [Server thread/INFO]: <rachit4102k> gucchu leave
+[17:21:42] [Server thread/INFO]: gucchu lost connection: Disconnected
+[17:21:42] [Server thread/INFO]: gucchu left the game
+[17:21:49] [Server thread/INFO]: shobhit_joe[/127.0.0.1:49812] logged in with entity id 14673 at (-213.84133434558194, 61.786496031381624, 1122.4322965066158)
+[17:21:49] [Server thread/INFO]: shobhit_joe joined the game
+[17:21:50] [Server thread/INFO]: warmachinerox[/127.0.0.1:49814] logged in with entity id 14675 at (-213.9680495224499, 62.02051026193485, 1146.3020616200863)
+[17:21:50] [Server thread/INFO]: warmachinerox joined the game
+[17:21:53] [Server thread/INFO]: gucchu[/127.0.0.1:49816] logged in with entity id 14684 at (-76.6520593196489, 63.0, 1219.9696962130386)
+[17:21:53] [Server thread/INFO]: gucchu joined the game
+[17:21:58] [Server thread/INFO]: sidmeister[/127.0.0.1:49820] logged in with entity id 14761 at (-120.57212220768145, 65.0, 1149.644521324455)
+[17:21:58] [Server thread/INFO]: sidmeister joined the game
+[17:26:57] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[17:26:57] [Server thread/INFO]: sidmeister left the game
+[17:32:52] [Server thread/INFO]: warmachinerox lost connection: Disconnected
+[17:32:52] [Server thread/INFO]: warmachinerox left the game
+[17:32:59] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[17:32:59] [Server thread/INFO]: shobhit_joe left the game
+[17:33:07] [Server thread/INFO]: warmachinerox[/127.0.0.1:49832] logged in with entity id 17332 at (-215.76745461576377, 56.0, 1157.7909645759112)
+[17:33:07] [Server thread/INFO]: warmachinerox joined the game
+[17:33:47] [Server thread/INFO]: shobhit_joe[/127.0.0.1:49834] logged in with entity id 17511 at (-215.38318295253984, 55.0, 1143.656703498477)
+[17:33:47] [Server thread/INFO]: shobhit_joe joined the game
+[17:33:48] [Server thread/INFO]: sidmeister[/127.0.0.1:49838] logged in with entity id 17514 at (-122.62587973857038, 63.0, 1115.0702578397743)
+[17:33:48] [Server thread/INFO]: sidmeister joined the game
+[17:36:44] [Server thread/INFO]: warmachinerox drowned
+[17:38:08] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[17:38:08] [Server thread/INFO]: sidmeister left the game
+[17:38:10] [Server thread/INFO]: sidmeister[/127.0.0.1:49844] logged in with entity id 18607 at (-110.49000000953674, 64.7125, 1146.5)
+[17:38:10] [Server thread/INFO]: sidmeister joined the game
+[17:38:20] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[17:38:20] [Server thread/INFO]: sidmeister left the game
+[17:38:21] [Server thread/INFO]: sidmeister[/127.0.0.1:49848] logged in with entity id 18662 at (-110.49000000953674, 64.7125, 1146.5)
+[17:38:21] [Server thread/INFO]: sidmeister joined the game
+[17:39:52] [Server thread/INFO]: warmachinerox has made the advancement [Isn't It Iron Pick]
+[17:42:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-208, y=64, z=1160} fx{x=-208, y=65, z=1160}
+[17:43:39] [Server thread/INFO]: warmachinerox lost connection: Disconnected
+[17:43:39] [Server thread/INFO]: warmachinerox left the game
+[17:43:42] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[17:43:42] [Server thread/INFO]: sidmeister left the game
+[17:43:43] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[17:43:43] [Server thread/INFO]: shobhit_joe left the game
+[17:43:47] [Server thread/INFO]: warmachinerox[/127.0.0.1:49854] logged in with entity id 19791 at (-192.64217156213363, 70.0, 1174.2987813346354)
+[17:43:47] [Server thread/INFO]: warmachinerox joined the game
+[17:43:49] [Server thread/INFO]: shobhit_joe[/127.0.0.1:49856] logged in with entity id 19802 at (-174.93524456123657, 77.0, 1184.5001592749868)
+[17:43:49] [Server thread/INFO]: shobhit_joe joined the game
+[17:43:55] [Server thread/INFO]: sidmeister[/127.0.0.1:49860] logged in with entity id 19831 at (-114.56881114994414, 66.0, 1175.5647964758023)
+[17:43:55] [Server thread/INFO]: sidmeister joined the game
+[17:44:06] [Server thread/WARN]: shobhit_joe moved too quickly! -7.730609402321079,-2.535840625044557,-5.84869958524996
+[17:44:06] [Server thread/WARN]: warmachinerox moved too quickly! -2.2700487785795076,0.16610926093821377,9.97555517930141
+[17:49:08] [Server thread/INFO]: gucchu was shot by Skeleton
+[17:49:42] [Server thread/INFO]: gucchu was shot by Skeleton
+[17:54:45] [Server thread/INFO]: <warmachinerox> sleep
+[17:55:02] [Server thread/INFO]: warmachinerox lost connection: Disconnected
+[17:55:02] [Server thread/INFO]: warmachinerox left the game
+[17:55:08] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[17:55:08] [Server thread/INFO]: shobhit_joe left the game
+[17:55:11] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[17:55:11] [Server thread/INFO]: sidmeister left the game
+[17:55:21] [Server thread/INFO]: warmachinerox[/127.0.0.1:49868] logged in with entity id 22332 at (-80.3322981077614, 63.0, 1183.3140017660173)
+[17:55:21] [Server thread/INFO]: warmachinerox joined the game
+[17:55:22] [Server thread/INFO]: sidmeister[/127.0.0.1:49872] logged in with entity id 22340 at (-86.2571423297285, 63.0, 1184.6551997079266)
+[17:55:22] [Server thread/INFO]: sidmeister joined the game
+[17:56:03] [Server thread/INFO]: shobhit_joe[/127.0.0.1:49876] logged in with entity id 22483 at (-86.37015410865567, 63.0, 1178.9075978636229)
+[17:56:03] [Server thread/INFO]: shobhit_joe joined the game
+[18:00:49] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/23507, l='ServerLevel[world]', x=-115.34, y=66.14, z=1115.99]
+[18:06:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-197, y=68, z=1174} fx{x=-196, y=67, z=1174}
+[18:06:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-198, y=68, z=1174} fx{x=-196, y=67, z=1174}
+[18:06:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-198, y=68, z=1174} fx{x=-196, y=67, z=1174}
+[18:06:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-198, y=68, z=1174} fx{x=-196, y=67, z=1174}
+[18:06:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-196, y=68, z=1173} fx{x=-196, y=67, z=1174}
+[18:06:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-196, y=68, z=1173} fx{x=-196, y=67, z=1174}
+[18:06:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-196, y=68, z=1173} fx{x=-196, y=67, z=1174}
+[18:06:42] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[18:06:42] [Server thread/INFO]: shobhit_joe left the game
+[18:06:44] [Server thread/INFO]: warmachinerox lost connection: Disconnected
+[18:06:44] [Server thread/INFO]: warmachinerox left the game
+[18:06:46] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[18:06:46] [Server thread/INFO]: sidmeister left the game
+[18:06:51] [Server thread/INFO]: warmachinerox[/127.0.0.1:49890] logged in with entity id 25206 at (-115.52075715673412, 62.0, 1114.2863675302892)
+[18:06:51] [Server thread/INFO]: warmachinerox joined the game
+[18:06:56] [Server thread/INFO]: warmachinerox lost connection: Disconnected
+[18:06:56] [Server thread/INFO]: warmachinerox left the game
+[18:07:04] [Server thread/INFO]: gucchu lost connection: Disconnected
+[18:07:04] [Server thread/INFO]: gucchu left the game
+[18:07:06] [Server thread/INFO]: warmachinerox[/127.0.0.1:49892] logged in with entity id 25244 at (-115.52075715673412, 62.0, 1114.2863675302892)
+[18:07:06] [Server thread/INFO]: warmachinerox joined the game
+[18:07:10] [Server thread/INFO]: gucchu[/127.0.0.1:49894] logged in with entity id 25311 at (-71.71677263970945, 63.0, 1210.6651611642787)
+[18:07:10] [Server thread/INFO]: gucchu joined the game
+[18:07:12] [Server thread/INFO]: sidmeister[/127.0.0.1:49898] logged in with entity id 25344 at (-194.6186754920215, 69.0, 1177.04293480844)
+[18:07:12] [Server thread/INFO]: sidmeister joined the game
+[18:07:32] [Server thread/INFO]: shobhit_joe[/127.0.0.1:49900] logged in with entity id 25396 at (-210.29020415784083, 63.0, 1156.0156040952786)
+[18:07:32] [Server thread/INFO]: shobhit_joe joined the game
+[18:08:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-173, y=73, z=1186} fx{x=-175, y=72, z=1187}
+[18:08:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-173, y=73, z=1186} fx{x=-175, y=72, z=1187}
+[18:08:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-175, y=74, z=1185} fx{x=-175, y=73, z=1184}
+[18:08:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-181, y=74, z=1183} fx{x=-182, y=73, z=1184}
+[18:08:54] [Server thread/INFO]: gucchu fell from a high place
+[18:08:58] [Server thread/INFO]: <warmachinerox> F
+[18:10:45] [Server thread/INFO]: <sidmeister> coal dedo
+[18:11:24] [Server thread/INFO]: <sidmeister> nearest lava pool?
+[18:11:44] [Server thread/INFO]: <warmachinerox> Soon opening at rollercoaster :)
+[18:12:01] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[18:12:01] [Server thread/INFO]: sidmeister left the game
+[18:12:23] [Server thread/INFO]: sidmeister[/127.0.0.1:49908] logged in with entity id 26830 at (-35.154332175909616, 63.0, 1212.0705318459704)
+[18:12:23] [Server thread/INFO]: sidmeister joined the game
+[18:12:38] [Server thread/INFO]: sidmeister lost connection: Timed out
+[18:12:38] [Server thread/INFO]: sidmeister left the game
+[18:12:39] [Server thread/WARN]: handleDisconnection() called twice
+[18:12:40] [Server thread/INFO]: rachit4102k lost connection: Disconnected
+[18:12:40] [Server thread/INFO]: rachit4102k left the game
+[18:12:41] [Server thread/INFO]: rachit4102k[/127.0.0.1:49910] logged in with entity id 26898 at (-202.3572198715434, 64.7531999805212, 1166.699999988079)
+[18:12:41] [Server thread/INFO]: rachit4102k joined the game
+[18:12:42] [Server thread/INFO]: sidmeister[/127.0.0.1:49914] logged in with entity id 26910 at (-35.154332175909616, 63.0, 1212.0705318459704)
+[18:12:42] [Server thread/INFO]: sidmeister joined the game
+[18:13:53] [Server thread/WARN]: Fetching packet for removed entity bcv['Carrot'/27143, l='ServerLevel[world]', x=-87.64, y=64.55, z=1244.33]
+[18:13:53] [Server thread/WARN]: Fetching packet for removed entity bcv['Carrot'/27143, l='ServerLevel[world]', x=-87.64, y=64.55, z=1244.33]
+[18:15:21] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[18:15:21] [Server thread/INFO]: sidmeister left the game
+[18:15:21] [Server thread/INFO]: sidmeister[/127.0.0.1:49920] logged in with entity id 27489 at (-117.40764795300349, 62.0, 1114.699999988079)
+[18:15:21] [Server thread/INFO]: sidmeister joined the game
+[18:15:26] [Server thread/WARN]: warmachinerox was kicked for floating too long!
+[18:15:26] [Server thread/INFO]: warmachinerox lost connection: Flying is not enabled on this server
+[18:15:26] [Server thread/INFO]: warmachinerox left the game
+[18:15:26] [Server thread/INFO]: rachit4102k lost connection: Timed out
+[18:15:26] [Server thread/INFO]: rachit4102k left the game
+[18:15:26] [Server thread/INFO]: gucchu lost connection: Timed out
+[18:15:26] [Server thread/INFO]: gucchu left the game
+[18:15:26] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[18:15:26] [Server thread/INFO]: shobhit_joe left the game
+[18:15:27] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[18:15:27] [Server thread/INFO]: sidmeister left the game
+[18:15:29] [Server thread/INFO]: rachit4102k[/127.0.0.1:49924] logged in with entity id 27514 at (-191.70087523474248, 69.0, 1181.987587941426)
+[18:15:29] [Server thread/INFO]: rachit4102k joined the game
+[18:15:31] [Server thread/INFO]: sidmeister[/127.0.0.1:49928] logged in with entity id 27782 at (-117.40764795300349, 62.0, 1114.699999988079)
+[18:15:31] [Server thread/INFO]: sidmeister joined the game
+[18:15:51] [Server thread/INFO]: warmachinerox[/127.0.0.1:49930] logged in with entity id 28054 at (-192.62137395632098, 69.16610926093821, 1180.1026457561495)
+[18:15:51] [Server thread/INFO]: warmachinerox joined the game
+[18:15:54] [Server thread/INFO]: shobhit_joe[/127.0.0.1:49932] logged in with entity id 28058 at (-171.3866021051429, 73.76636799395752, 1184.6785396208406)
+[18:15:54] [Server thread/INFO]: shobhit_joe joined the game
+[18:15:59] [Server thread/WARN]: warmachinerox was kicked for floating too long!
+[18:15:59] [Server thread/INFO]: warmachinerox lost connection: Flying is not enabled on this server
+[18:15:59] [Server thread/INFO]: warmachinerox left the game
+[18:16:03] [Server thread/INFO]: rachit4102k lost connection: Disconnected
+[18:16:03] [Server thread/INFO]: rachit4102k left the game
+[18:16:06] [Server thread/INFO]: rachit4102k[/127.0.0.1:49936] logged in with entity id 28068 at (-189.5907893490047, 69.0, 1182.3148535329144)
+[18:16:06] [Server thread/INFO]: rachit4102k joined the game
+[18:16:06] [Server thread/INFO]: warmachinerox[/127.0.0.1:49938] logged in with entity id 28069 at (-192.62137395632098, 69.16610926093821, 1180.1026457561495)
+[18:16:06] [Server thread/INFO]: warmachinerox joined the game
+[18:16:46] [Server thread/INFO]: <sidmeister> glass nahi hai bhai
+[18:16:54] [Server thread/INFO]: <sidmeister> wahi laa raha hun
+[18:17:16] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[18:17:16] [Server thread/INFO]: sidmeister left the game
+[18:17:25] [Server thread/INFO]: sidmeister[/127.0.0.1:49942] logged in with entity id 28348 at (-119.03998880891692, 64.0, 1203.3674371904024)
+[18:17:25] [Server thread/INFO]: sidmeister joined the game
+[18:17:29] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[18:17:29] [Server thread/INFO]: sidmeister left the game
+[18:17:38] [Server thread/INFO]: warmachinerox lost connection: Disconnected
+[18:17:38] [Server thread/INFO]: warmachinerox left the game
+[18:17:39] [Server thread/INFO]: [Server] net nahi aara theek se
+[18:17:52] [Server thread/INFO]: [Server] rachit chalade
+[18:18:00] [Server thread/INFO]: warmachinerox[/127.0.0.1:49944] logged in with entity id 28403 at (-191.46738804542926, 69.0, 1182.4636013422153)
+[18:18:00] [Server thread/INFO]: warmachinerox joined the game
+[18:18:15] [Server thread/INFO]: warmachinerox lost connection: Timed out
+[18:18:15] [Server thread/INFO]: warmachinerox left the game
+[18:18:22] [Server thread/INFO]: warmachinerox[/127.0.0.1:49946] logged in with entity id 28470 at (-191.46738804542926, 69.0, 1182.4636013422153)
+[18:18:22] [Server thread/INFO]: warmachinerox joined the game
+[18:19:01] [Server thread/INFO]: warmachinerox lost connection: Disconnected
+[18:19:01] [Server thread/INFO]: warmachinerox left the game
+[18:19:07] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[18:19:07] [Server thread/INFO]: shobhit_joe left the game
+[18:19:21] [Server thread/INFO]: warmachinerox[/127.0.0.1:49948] logged in with entity id 28660 at (-200.8242681882153, 67.0, 1173.3750767307433)
+[18:19:21] [Server thread/INFO]: warmachinerox joined the game
+[18:19:34] [Server thread/INFO]: warmachinerox was slain by Husk
+[18:19:45] [Server thread/INFO]: shobhit_joe[/127.0.0.1:49950] logged in with entity id 28821 at (-123.67736922706167, 63.0, 1183.47064254748)
+[18:19:45] [Server thread/INFO]: shobhit_joe joined the game
+[18:20:29] [Server thread/WARN]: rachit4102k moved too quickly! 9.925229187733322,0.756759288177264,1.8061976200935987
+[18:21:03] [Server thread/WARN]: rachit4102k moved too quickly! -6.159747323872608,0.0,8.008873386096411
+[18:21:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
+[18:21:51] [Server thread/INFO]: [Server] jab band karna ho bata dena
+[18:21:59] [Server thread/INFO]: <warmachinerox> okk
+[18:22:00] [Server thread/INFO]: <shobhit_joe> ok
+[18:27:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-181, y=73, z=1183} fx{x=-182, y=72, z=1183}
+[18:30:20] [Server thread/INFO]: warmachinerox lost connection: Disconnected
+[18:30:20] [Server thread/INFO]: warmachinerox left the game
+[18:30:23] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[18:30:23] [Server thread/INFO]: shobhit_joe left the game
+[18:30:31] [Server thread/INFO]: warmachinerox[/127.0.0.1:50194] logged in with entity id 30866 at (-83.63991716300659, 63.0, 1186.8112918530492)
+[18:30:31] [Server thread/INFO]: warmachinerox joined the game
+[18:31:19] [Server thread/INFO]: shobhit_joe[/127.0.0.1:50198] logged in with entity id 31015 at (-76.95712340320144, 63.0, 1184.2829322920356)
+[18:31:19] [Server thread/INFO]: shobhit_joe joined the game
+[18:41:29] [Server thread/INFO]: warmachinerox lost connection: Disconnected
+[18:41:29] [Server thread/INFO]: warmachinerox left the game
+[18:41:35] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[18:41:35] [Server thread/INFO]: shobhit_joe left the game
+[18:41:43] [Server thread/INFO]: Len1911[/127.0.0.1:50216] logged in with entity id 33016 at (-93.5, 71.0, -8.5)
+[18:41:43] [Server thread/INFO]: Len1911 joined the game
+[18:41:47] [Server thread/INFO]: <Len1911> oi rachit
+[18:41:48] [Server thread/INFO]: <Len1911> bhai
+[18:41:57] [Server thread/INFO]: warmachinerox[/127.0.0.1:50218] logged in with entity id 33168 at (-84.21424146254937, 83.0, 1189.5696180403118)
+[18:41:57] [Server thread/INFO]: warmachinerox joined the game
+[18:42:01] [Server thread/INFO]: <rachit4102k> ??
+[18:42:17] [Server thread/INFO]: <Len1911> bhai mujhe bhul gaya???
+[18:42:28] [Server thread/INFO]: shobhit_joe[/127.0.0.1:50220] logged in with entity id 33357 at (-84.55583720875089, 92.0, 1186.1484064437113)
+[18:42:28] [Server thread/INFO]: shobhit_joe joined the game
+[18:42:32] [Server thread/INFO]: <rachit4102k> kon hai bhai XD
+[18:42:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-37, y=70, z=-4} fx{x=-38, y=70, z=-5}
+[18:42:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-30, y=68, z=2} fx{x=-31, y=68, z=1}
+[18:42:43] [Server thread/INFO]: <Len1911> i am from dn
+[18:43:09] [Server thread/INFO]: <Len1911> your server is fully exposed in dn
+[18:43:24] [Server thread/INFO]: <rachit4102k> interesting
+[18:43:27] [Server thread/INFO]: <Len1911> مرحبًا أصدقائي ، يجب أن ترشحوا لأنني قادم من أجلك
+[18:43:34] [Server thread/INFO]: <Len1911> i have all your data
+[18:43:53] [Server thread/INFO]: Len1911 tried to swim in lava
+[18:43:56] [Server thread/INFO]: Len1911 lost connection: Disconnected
+[18:43:56] [Server thread/INFO]: Len1911 left the game
+[18:49:45] [Server thread/WARN]: warmachinerox moved too quickly! 0.0,-10.867409983895072,0.10927589511970837
+[18:49:46] [Server thread/INFO]: warmachinerox fell from a high place
+[18:52:37] [Server thread/INFO]: <rachit4102k> maza aa gaya
+[18:52:51] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[18:52:51] [Server thread/INFO]: shobhit_joe left the game
+[18:53:21] [Server thread/INFO]: warmachinerox lost connection: Disconnected
+[18:53:21] [Server thread/INFO]: warmachinerox left the game
+[18:53:38] [Server thread/INFO]: warmachinerox[/127.0.0.1:50242] logged in with entity id 35373 at (-84.63484554979628, 80.0, 1186.048871115123)
+[18:53:38] [Server thread/INFO]: warmachinerox joined the game
+[18:53:44] [Server thread/INFO]: shobhit_joe[/127.0.0.1:50244] logged in with entity id 35401 at (-54.41194446941044, 64.0, 1213.6849320782057)
+[18:53:44] [Server thread/INFO]: shobhit_joe joined the game
+[18:54:41] [Server thread/INFO]: <rachit4102k> hea;th full rakhna apni
+[18:54:46] [Server thread/INFO]: <rachit4102k> nahi toh ...
+[18:54:58] [Server thread/INFO]: <shobhit_joe> discord ko kya hua tere ??
+[18:55:11] [Server thread/INFO]: <rachit4102k> kuch ni
+[18:55:21] [Server thread/INFO]: <shobhit_joe> kuch bol kyun nahi raha
+[18:56:31] [Server thread/INFO]: <rachit4102k> diya tha maine ise
+[18:58:20] [Server thread/INFO]: warmachinerox hit the ground too hard
+[18:58:49] [Server thread/INFO]: <shobhit_joe> maaassssttt
+[19:02:08] [Server thread/INFO]: <warmachinerox> Rachit
+[19:02:16] [Server thread/INFO]: <rachit4102k> yes
+[19:02:19] [Server thread/INFO]: <warmachinerox> discord?
+[19:02:31] [Server thread/INFO]: <rachit4102k> band ho gaya phone
+[19:02:40] [Server thread/INFO]: <warmachinerox> laptop pe hi aaja?
+[19:02:47] [Server thread/INFO]: <rachit4102k> baad pe khelein?
+[19:02:52] [Server thread/INFO]: <warmachinerox> ok
+[19:03:00] [Server thread/INFO]: <rachit4102k> chalo mai jaa raha hu
+[19:03:04] [Server thread/INFO]: <rachit4102k> nice session
+[19:03:06] [Server thread/INFO]: <rachit4102k> gg
+[19:03:09] [Server thread/INFO]: <rachit4102k> bye
+[19:03:11] [Server thread/INFO]: <warmachinerox> ya bro
+[19:03:11] [Server thread/INFO]: rachit4102k lost connection: Disconnected
+[19:03:11] [Server thread/INFO]: rachit4102k left the game
+[19:03:12] [Server thread/INFO]: <shobhit_joe> bye
+[19:03:13] [Server thread/INFO]: <warmachinerox> bya
+[19:05:31] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[19:05:31] [Server thread/INFO]: shobhit_joe left the game
+[19:05:50] [Server thread/INFO]: warmachinerox lost connection: Disconnected
+[19:05:50] [Server thread/INFO]: warmachinerox left the game
+[19:40:58] [Server thread/INFO]: Stopping the server
+[19:40:58] [Server thread/INFO]: Stopping server
+[19:40:58] [Server thread/INFO]: Saving players
+[19:40:58] [Server thread/INFO]: Saving worlds
+[19:40:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:40:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:40:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
