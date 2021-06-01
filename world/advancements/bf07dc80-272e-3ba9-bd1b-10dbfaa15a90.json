@@ -1013,6 +1013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2021-06-01 23:31:31 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2021-02-15 21:44:48 +0530"
@@ -1106,6 +1112,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-02-15 21:55:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2021-06-01 23:31:31 +0530"
     },
     "done": true
   },
@@ -1681,6 +1693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-06-01 22:29:52 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-02-15 21:58:37 +0530"
@@ -1750,6 +1768,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2021-02-17 16:33:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-06-01 22:29:52 +0530"
     },
     "done": true
   },
@@ -1951,6 +1975,7 @@
       "bread": "2021-03-03 17:22:49 +0530",
       "rotten_flesh": "2021-02-15 22:02:00 +0530",
       "cookie": "2021-03-03 16:25:44 +0530",
+      "cooked_rabbit": "2021-06-01 22:40:11 +0530",
       "cooked_chicken": "2021-02-17 14:01:42 +0530",
       "carrot": "2021-03-03 17:47:14 +0530"
     },
@@ -2170,6 +2195,7 @@
     "criteria": {
       "minecraft:sheep": "2021-02-17 14:44:30 +0530",
       "minecraft:cow": "2021-02-17 14:44:21 +0530",
+      "minecraft:chicken": "2021-06-02 00:29:06 +0530",
       "minecraft:bee": "2021-03-03 14:50:24 +0530"
     },
     "done": false
